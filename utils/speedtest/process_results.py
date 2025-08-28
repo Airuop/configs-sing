@@ -10,7 +10,7 @@ import re
 META_FILE = 'meta.json'
 TAG_MAP_FILE = 'tag_map.json'
 GEOIP_DB = 'utils/GeoLite2-Country.mmdb'
-BLOCKED_COUNTRIES = ['IR', 'CN']
+SELECTED_COUNTRIES = ['IR']
 
 # Output files
 FULL_OUTPUT_FILE = 'full.txt'
@@ -190,10 +190,8 @@ def process_and_save_results():
                 })
 
     initial_count = len(processed_nodes)
-    processed_nodes = [node for node in processed_nodes if node.get('country') not in BLOCKED_COUNTRIES]
+    processed_nodes = [node for node in processed_nodes if node.get('country')  in SELECTED_COUNTRIES]
     removed_count = initial_count - len(processed_nodes)
-    if removed_count > 0:
-        print(f"Filtered out {removed_count} nodes from blocked countries ({', '.join(BLOCKED_COUNTRIES)}).")
     
     if not processed_nodes:
         print("No valid nodes left after filtering. Aborting.")
