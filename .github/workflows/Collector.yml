@@ -19,22 +19,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "18.x"
-
-      - name: Install Node.js dependencies
-        uses: bahmutov/npm-install@v1
-        with:
-          working-directory: ./utils/localserver
+        uses: actions/checkout@v5.0.0
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.6.0
         with:
-          python-version: "3.11"
+          python-version: "3.11.13"
           cache: "pip"
 
       - name: Set Timezone
@@ -64,7 +54,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git pull origin master
+          git pull origin dev
           git add ./sub
           git add ./utils/Country.mmdb
           git add README.md
@@ -78,7 +68,7 @@ jobs:
       - name: Push Collection Changes
         uses: ad-m/github-push-action@master
         with:
-          branch: master
+          branch: dev
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Trigger Tester Workflow
@@ -86,5 +76,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Triggering the tester.yml workflow on the master branch..."
-          gh workflow run tester.yml --ref master
+          echo "Triggering the tester.yml workflow on the dev branch..."
+          gh workflow run tester.yml --ref dev
