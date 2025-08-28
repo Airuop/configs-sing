@@ -5,7 +5,8 @@ import geoip2.database
 import os
 import socket
 import re
-
+import time
+from datetime import datetime
 # --- Configuration ---
 META_FILE = 'meta.json'
 TAG_MAP_FILE = 'tag_map.json'
@@ -23,11 +24,27 @@ ETERNITY_LIST_SIZE = 165
 TOP_POOL_SIZE = 1000
 # --- THIS IS THE FIX: Define default and country-specific limits ---
 NODES_PER_COUNTRY = 1  # Default for all countries
-COUNTRY_NODE_LIMITS = {
-    'TR': 4  # Special limit for Turkey
-}
+COUNTRY_NODE_LIMITS = {}
 # --- END OF FIX ---
+def backup(data):
+  update_path = './update'
+  date_dir = datetime.now().strftime("%y%m")
+  date_file = datetime.now().strftime("%y%m%d_%H%M")
 
+  try:
+    os.makedirs(f"{update_path}/{date_dir}", exist_ok=True)
+  except OSError:
+    print("Error creating backup directory")
+    return
+
+  file_path = f"{update_path}/{date_dir}/{date_file}.txt"
+
+  try:  
+    with open(file_path, "w", encoding="utf-8") as f:
+      f.write('\n'.join(data))
+  except OSError:
+    print("Error writing backup file")
+      
 def is_ip_address(address):
     """Checks if a string is a valid IPv4 address."""
     if not isinstance(address, str):
@@ -192,7 +209,7 @@ def process_and_save_results():
     initial_count = len(processed_nodes)
     processed_nodes = [node for node in processed_nodes if node.get('country')  in SELECTED_COUNTRIES]
     removed_count = initial_count - len(processed_nodes)
-    
+
     if not processed_nodes:
         print("No valid nodes left after filtering. Aborting.")
         for f in [FULL_OUTPUT_FILE, FULL_OUTPUT_BASE64_FILE, ETERNITY_OUTPUT_FILE, ETERNITY_OUTPUT_BASE64_FILE]: open(f, 'w').close()
@@ -243,12 +260,16 @@ def process_and_save_results():
 
     eternity_nodes.sort(key=lambda x: x['speed'], reverse=True)
 
+    print(eternity_nodes)
     eternity_links = [p['link'] for p in eternity_nodes]
     with open(ETERNITY_OUTPUT_FILE, 'w', encoding='utf-8') as f: f.write('\n'.join(eternity_links))
     print(f"✅ Saved 'Eternity' list of {len(eternity_links)} proxies to {ETERNITY_OUTPUT_FILE}.")
 
     with open(ETERNITY_OUTPUT_BASE64_FILE, 'w', encoding='utf-8') as f: f.write(base64.b64encode('\n'.join(eternity_links).encode()).decode())
     print(f"✅ Saved Base64 encoded 'Eternity' list to {ETERNITY_OUTPUT_BASE64_FILE}.")
-
+    backup(eternity_links)
+    print(f"✅ Saved 'Backup' list of {len(eternity_links)} proxies.")
+    
 if __name__ == '__main__':
     process_and_save_results()
+    
