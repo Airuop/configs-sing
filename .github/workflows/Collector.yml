@@ -10,8 +10,7 @@ on:
       - "./sub/sub_merge_yaml.yml"
 
   schedule:
-    - cron: "0 2 * * *"
-    - cron: "30 12 * * *"
+    - cron: "0 18 * * *"
 
 jobs:
   main:
