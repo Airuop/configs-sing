@@ -21,42 +21,42 @@ valid_ss_plugins = ["obfs","v2ray-plugin"]
 class subs:
     @staticmethod
     def filter_non_local(items):
-    """
-    Remove entries whose c_clash.server IP is:
-    - private
-    - loopback (127.x.x.x)
-    - link-local
-    - reserved
-    - multicast
-    - unspecified (0.0.0.0)
-    - invalid addresses
-    """
-    filtered = []
+        """
+        Remove entries whose c_clash.server IP is:
+        - private
+        - loopback (127.x.x.x)
+        - link-local
+        - reserved
+        - multicast
+        - unspecified (0.0.0.0)
+        - invalid addresses
+        """
+        filtered = []
 
-    for item in items:
-        server_ip = item.get("c_clash", {}).get("server")
+        for item in items:
+            server_ip = item.get("c_clash", {}).get("server")
 
-        try:
-            ip_obj = ipaddress.ip_address(server_ip)
+            try:
+                ip_obj = ipaddress.ip_address(server_ip)
 
-            # Remove all non-public or invalid types
-            if (
-                ip_obj.is_private or
-                ip_obj.is_loopback or
-                ip_obj.is_link_local or
-                ip_obj.is_reserved or
-                ip_obj.is_multicast or
-                ip_obj.is_unspecified     # catches 0.0.0.0
-            ):
+                # Remove all non-public or invalid types
+                if (
+                    ip_obj.is_private or
+                    ip_obj.is_loopback or
+                    ip_obj.is_link_local or
+                    ip_obj.is_reserved or
+                    ip_obj.is_multicast or
+                    ip_obj.is_unspecified     # catches 0.0.0.0
+                ):
+                    continue
+
+            except ValueError:
+                # skip invalid IPs (e.g. empty, None, text)
                 continue
 
-        except ValueError:
-            # skip invalid IPs (e.g. empty, None, text)
-            continue
+            filtered.append(item)
 
-        filtered.append(item)
-
-    return filtered
+        return filtered
 
     def get_subs_v3(content_urls: list, output_path="sub_merge", should_cleanup=True, specific_files_cleanup=None):
         if specific_files_cleanup is None:
