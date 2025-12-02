@@ -25,10 +25,10 @@ jobs:
       #   with:
       #     node-version: "18.x"
 
-      # - name: Install Node.js dependencies
-      #   uses: bahmutov/npm-install@v1
-      #   with:
-      #     working-directory: ./utils/localserver
+       - name: Install Node.js dependencies
+         uses: bahmutov/npm-install@v1
+         with:
+           working-directory: ./utils/localserver
 
       - name: Setup Python
         uses: actions/setup-python@v6.0.0
