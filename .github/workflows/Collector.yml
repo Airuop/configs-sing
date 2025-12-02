@@ -8,6 +8,8 @@ on:
       - "./EternityBase"
       - "./sub/sub_merge_base64.txt"
       - "./sub/sub_merge_yaml.yml"
+      - "./run.txt"
+
 
   schedule:
     - cron: "0 18 * * *"
