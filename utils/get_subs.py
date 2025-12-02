@@ -20,19 +20,8 @@ valid_ss_plugins = ["obfs","v2ray-plugin"]
 
 class subs:
     @staticmethod
-    def filter_non_local(items):
-        """
-        Remove entries whose c_clash.server IP is:
-        - private
-        - loopback (127.x.x.x)
-        - link-local
-        - reserved
-        - multicast
-        - unspecified (0.0.0.0)
-        - invalid addresses
-        """
+    def filter_non_local(items):   
         filtered = []
-
         for item in items:
             server_ip = item.get("c_clash", {}).get("server")
 
