@@ -5,6 +5,8 @@ import re
 import os
 import yaml
 import urllib.parse
+import ipaddress
+
 
 sub_list_json = './sub/sub_list.json'
 sub_merge_path = './sub/'
@@ -17,6 +19,44 @@ valid_ss_cipher_methods = ["aes-128-gcm", "aes-192-gcm", "aes-256-gcm", "aes-128
 valid_ss_plugins = ["obfs","v2ray-plugin"]
 
 class subs:
+    @staticmethod
+    def filter_non_local(items):
+    """
+    Remove entries whose c_clash.server IP is:
+    - private
+    - loopback (127.x.x.x)
+    - link-local
+    - reserved
+    - multicast
+    - unspecified (0.0.0.0)
+    - invalid addresses
+    """
+    filtered = []
+
+    for item in items:
+        server_ip = item.get("c_clash", {}).get("server")
+
+        try:
+            ip_obj = ipaddress.ip_address(server_ip)
+
+            # Remove all non-public or invalid types
+            if (
+                ip_obj.is_private or
+                ip_obj.is_loopback or
+                ip_obj.is_link_local or
+                ip_obj.is_reserved or
+                ip_obj.is_multicast or
+                ip_obj.is_unspecified     # catches 0.0.0.0
+            ):
+                continue
+
+        except ValueError:
+            # skip invalid IPs (e.g. empty, None, text)
+            continue
+
+        filtered.append(item)
+
+    return filtered
 
     def get_subs_v3(content_urls: list, output_path="sub_merge", should_cleanup=True, specific_files_cleanup=None):
         if specific_files_cleanup is None:
@@ -173,7 +213,11 @@ class subs:
         corresponding_list = subs_function.fix_proxies_name(
             corresponding_proxies=corresponding_list)
         print("===> STEP 2 COMPLETE.\n", flush=True)
-
+        
+        print(f"\n before validation sub length => {corresponding_list.__len__()}")
+        corresponding_list = (subs.filter_non_local(corresponding_list))
+        
+        print("===> STEP 3 COMPLETE.\n", flush=True)
         print(f"\nfinal sub length => {len(corresponding_list)}", flush=True)
 
         print("-> [get_subs.py] Applying comprehensive sanitization (tfo, alpn, short-id)...", flush=True)
