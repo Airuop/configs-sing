@@ -1,5 +1,5 @@
+  - {name: 🇺🇸 美国 V2CROSS.COM, server: 45.150.52.40, port: 443, type: vmess, uuid: c31777a1-2ee6-4864-db4c-a79fcbc8188b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /c31777a1, headers: {Host: xsj011-3.facai2024.com}}}
+  - {name: 🇰🇷 韩国 V2CROSS.COM, server: 49.128.204.85, port: 16629, type: vmess, uuid: 2c78877c-6472-45da-ae89-9b9d6e3ec5e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sfgjmero45}}
+  - {name: 🇸🇬 新加坡 Amazon数据中心, server: 54.179.173.163, port: 46576, type: vmess, uuid: bf465b5f-a9eb-4615-d24b-469a23cd79b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /bf465b5f}}
   - {name: 🇨🇦 加拿大多伦多 V2CROSS.COM, server: 198.57.27.27, port: 12990, type: trojan, password: 6pRjKQJ0CWyFtG.9, sni: diningtable.electricbanana.click, skip-cert-verify: true}
-  - {name: 🇺🇸 美国 V2CROSS.COM, server: 74.117.196.232, port: 37171, type: vmess, uuid: e3cb685e-7840-45cb-9d64-b2028d9b635e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /speedtest, headers: {Host: imafake.locker}}}
-  - {name: 🇬🇧 英国 V2CROSS.COM, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 58.152.25.242, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇨🇳 中国 V2CROSS.COM, server: v30.hdacd.com, port: 30830, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇺🇸 美国 V2CROSS.COM 2, server: 45.150.52.40, port: 443, type: vmess, uuid: c31777a1-2ee6-4864-db4c-a79fcbc8188b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /c31777a1, headers: {Host: xsj011-3.facai2024.com}}}
