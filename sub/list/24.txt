@@ -1,3 +1,3 @@
+  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 58.152.46.60, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
   - {name: 🇺🇸 美国 华盛顿Cogent通信公司, server: 38.96.254.102, port: 18509, type: trojan, password: .ie4rghJuMkcf0oF, sni: shoppingmall.electricbanana.click, skip-cert-verify: true}
-  - {name: 🇭🇰 香港 电讯盈科有限公司, server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇭🇰 香港 电讯盈科有限公司 2, server: 203.198.84.221, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇺🇸 德国美因河畔法兰克福 xTom/AS3214, server: os-2.rise-fuji.com, port: 443, type: trojan, password: Fn9TZuYXiFYhsyp65T, sni: os-2.rise-fuji.com, skip-cert-verify: true}
