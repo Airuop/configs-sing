@@ -31,7 +31,149 @@
   - {name: server  11, server: mci.tahermollaei.pw, port: 443, type: vless, uuid: 7d3b945d-0f23-4719-9fae-50033251e2fd, tls: true, tfo: false, skip-cert-verify: true, servername: 5tut117qc2g6nrc19j56.khodavakili.buzz, network: ws, ws-opts: {path: /kos_madar_publisher, headers: {Host: 5tut117qc2g6nrc19j56.khodavakili.buzz}}}
   - {name: server  12, server: cloudflare.quest, port: 443, type: vless, uuid: 7d3b945d-0f23-4719-9fae-50033251e2fd, tls: true, tfo: false, skip-cert-verify: true, servername: cndb9wjin2i7vab5vvcg.khodavakili.top, network: ws, ws-opts: {path: /kos_madar_publisher, headers: {Host: cndb9wjin2i7vab5vvcg.khodavakili.top}}}
   - {name: server  13, server: cm.db-link.in, port: 443, type: vless, uuid: 7d3b945d-0f23-4719-9fae-50033251e2fd, tls: true, tfo: false, skip-cert-verify: true, servername: 0xjwju9wgnxxb7x6ck59.khodavakili.buzz, network: ws, ws-opts: {path: /kos_madar_publisher, headers: {Host: 0xjwju9wgnxxb7x6ck59.khodavakili.buzz}}}
+  - {name: ALL-@V2rayAlpha--40, server: id1.wpairplane.com, port: 9000, type: vmess, uuid: d96ab248-733f-425a-8e2d-d4c88822aa5a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: All-@V2rayAlpha--16, server: 2001:bc8:32d7:302::10, port: 44579, type: vmess, uuid: 8e34e170-13ae-4892-9d20-05962acc9f84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: AZERB.NET}}}
+  - {name: All-@V2rayAlpha--18, server: 57.128.189.240, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /linkvws}}
+  - {name: All-@V2rayAlpha--17, server: 2001:bc8:32d7:302::10, port: 44579, type: vmess, uuid: 8e34e170-13ae-4892-9d20-05962acc9f84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 2001:bc8:32d7:302::10}}}
+  - {name: WiFi-@V2rayAlpha-29, server: n1753598451.74qxv.top, port: 443, type: vmess, uuid: 9798678f-5b8c-4ff1-bbdd-b9b5c1539de0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: n1753598451.74qxv.top, network: ws, ws-opts: {path: /, headers: {Host: n1753598451.74qxv.top}}}
+  - {name: WiFi-@V2rayAlpha-31, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmessws, headers: {Host: 209.126.84.189}}}
   - {name: Project By ALIILAPRO, server: https://github.com/ALIILAPRO/v2rayNG-Config, port: 433, type: vmess, uuid: Free, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: "@Filter_breaker", server: 162.19.248.238, port: 550, type: vmess, uuid: ede27a79-b039-490b-932c-495de4b68880, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: https://t.me/V2raNG_DA, server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 2qfrmk3l, server: 217.69.5.32, port: 443, type: vmess, uuid: ec4c349c-b3c6-4cff-be63-01eaad1dc098, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: BESTIIVPNBOT, server: 217.69.5.32, port: 443, type: vmess, uuid: ec4c349c-b3c6-4cff-be63-01eaad1dc098, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: BESTIIVPNBOT 2, server: 15.235.41.200, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}}
+  - {name: "Telegram: @v2node", server: 172.67.204.84, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}}
+  - {name: WiFi-@V2rayAlpha-30, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmessws, headers: {Host: AZERB.NET}}}
+  - {name: "@V2raysCollector ☃️", server: 47.251.91.241, port: 42899, type: vmess, uuid: 0925b355-2bcd-4eae-9720-d2709e4f7e36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: Random Location, server: yichueng.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: yichueng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: yichueng.org}}}
+  - {name: 🇨🇦 Canada, server: 15.235.83.228, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: lammaland.org, network: ws, ws-opts: {path: linkvws, headers: {Host: lammaland.org}}}
+  - {name: OVH, server: serkat.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: serkat.org, network: ws, ws-opts: {path: linkvws, headers: {Host: serkat.org}}}
+  - {name: 🇭🇰 Hong Kong هنگ کنگ, server: 8.210.140.23, port: 54809, type: vmess, uuid: fde73daf-cc67-42f3-9935-35b132b01abd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🇭🇰 Hong Kong, server: 47.83.18.10, port: 36968, type: vmess, uuid: 176bf1dd-647f-4c09-892e-5f9223dc8617, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: ویتنام, server: 161.248.30.3, port: 20086, type: vmess, uuid: 1006a928-2021-4a3b-beb5-d5853c6281c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇫🇷 France Fast, server: fapeng.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: fapeng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: fapeng.org}}}
+  - {name: "@Filter_breaker 2", server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: true, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}}
+  - {name: Telegram @Ettehad_vpn اتحاد وی‌پی‌ان, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: true, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}}
+  - {name: "Telegram: @v2node 2", server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: true, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}}
+  - {name: BESTIIVPNBOT 3, server: usa.visa.com, port: 443, type: trojan, password: zWFjJENcljZm, sni: vahidqaz-7o61u7.vahidqaz.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vahidqaz-7o61u7.vahidqaz.workers.dev}}}
+  - {name: BESTIIVPNBOT 4, server: cf.090227.xyz, port: 443, type: trojan, password: 87d1bfd4-574e-4c96-ad42-0426f27461ff, sni: _acme-challenge.2go.cloudns.be, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: _acme-challenge.2go.cloudns.be}}}
+  - {name: "@HiByeVPNN 💥%D�ت ملی❤️‍🔥", server: cf.090227.xyz, port: 443, type: trojan, password: 87d1bfd4-574e-4c96-ad42-0426f27461ff, sni: _acme-challenge.2go.cloudns.be, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN", headers: {Host: _acme-challenge.2go.cloudns.be}}}
+  - {name: کره, server: cf.090227.xyz, port: 443, type: trojan, password: 87d1bfd4-574e-4c96-ad42-0426f27461ff, sni: _acme-challenge.2go.cloudns.be, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed", headers: {Host: _acme-challenge.2go.cloudns.be}}}
+  - {name: کره 2, server: store.ubi.com, port: 443, type: trojan, password: 87d1bfd4-574e-4c96-ad42-0426f27461ff, sni: _acme-challenge.2go.cloudns.be, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed", headers: {Host: _acme-challenge.2go.cloudns.be}}}
+  - {name: "@V2raysCollector 👳🔫", server: 188.114.96.3, port: 443, type: trojan, password: XZ%7CP5%7DoQVc8V, sni: 004.eLecTrOCELLco-cf-004.WorkeRs.DEv, alpn: [http%2F1.1], skip-cert-verify: true, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19?ed=2560", headers: {Host: 004.eLecTrOCELLco-cf-004.WorkeRs.DEv}}}
+  - {name: "@kaanfing", server: 91.107.244.15, port: 443, type: vless, uuid: 7b148add-4438-426e-a583-50f11e7bd0e4, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: "@Filter_breaker 3", server: 45.12.150.145, port: 15470, type: vless, uuid: ecc97810-557a-44ef-9957-ba078d0ac414, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY, short-id: e08a28}, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
+  - {name: 13.250.115.165, server: all.tellmethetrue.shop, port: 443, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: true, tfo: false, skip-cert-verify: true, servername: pqh41v3.carwashipdir.shop, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: "@planbnetvpnbot 👈تست رایگان نت ملی", server: pqh29v3.globalfymain.com, port: 8880, type: vless, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: All--@V2rayAlpha-22`, server: 198.50.119.86, port: 8080, type: vless, uuid: e2be0db4-4110-42eb-bca1-ba8df0897319, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /39427/Nextlife, headers: {Host: telewebion.com}}}
+  - {name: "@planbnetvpnbot 👈تست رایگان نت ملی 2", server: 5.182.36.56, port: 45886, type: vless, uuid: 8338171d-2ea7-4015-bdea-492f3d5d4e60, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0, short-id: 94f9}, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
+  - {name: "Telegram: @v2node 3", server: 91.107.244.15, port: 443, type: vless, uuid: 7b148add-4438-426e-a583-50f11e7bd0e4, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: "@planbnetvpnbot 👈تست رایگان نت ملی 3", server: 40.160.14.104, port: 8880, type: vless, uuid: 6251f84e-9c02-4140-921c-6b47d394fb96, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 5, server: 5.182.36.56, port: 45886, type: vless, uuid: 8338171d-2ea7-4015-bdea-492f3d5d4e60, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0, short-id: 94f9}, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
+  - {name: 3, server: 62.60.176.237, port: 2052, type: vless, uuid: c88811ea-fead-4e2d-b34d-7d8725896304, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-}}
+  - {name: "@Daily_Configs : کانفیگ بیشتر در کانال", server: pavosilene.qzz.io, port: 443, type: vless, uuid: 3ceb7c2b-8aed-41b3-ad42-ba1e1a69bae5, tls: true, tfo: false, skip-cert-verify: true, servername: pavosilene.qzz.io, network: ws, ws-opts: {path: /79.141.170.138:443, headers: {Host: pavosilene.qzz.io}}}
+  - {name: "Telegram: @v2node 4", server: pavosilene.qzz.io, port: 443, type: vless, uuid: 3ceb7c2b-8aed-41b3-ad42-ba1e1a69bae5, tls: true, tfo: false, skip-cert-verify: true, servername: pavosilene.qzz.io, network: ws, ws-opts: {path: /79.141.170.138:443, headers: {Host: pavosilene.qzz.io}}}
+  - {name: "Telegram: @v2node 5", server: pqh29v3.globalfymain.com, port: 8880, type: vless, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: BESTIIVPNBOT 5, server: 45.12.143.191, port: 20329, type: vless, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
+  - {name: "|•@confegraigan`", server: api.dark-coffe.com, port: 443, type: vless, uuid: 7e58699f-1d5d-4f6b-b181-cb74f0ad9509, tls: true, tfo: false, skip-cert-verify: true, servername: GfV5t2331T.sMaRtTeChZaAl.InFo, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: GfV5t2331T.sMaRtTeChZaAl.InFo}}}
+  - {name: "@planbnetvpnbot 👈تست رایگان نت ملی```", server: 57.129.53.180, port: 23576, type: vless, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, servername: fuck.rkn, client-fingerprint: chrome, network: tcp}
+  - {name: BESTIIVPNBOT 6, server: 188.34.193.153, port: 443, type: vless, uuid: 309fa273-6579-4cb2-9143-7cad50401eba, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY, short-id: 7cad5040}, servername: www.cloudflare.com, client-fingerprint: chrome, network: tcp}
+  - {name: "@HiByeVPNN 💥نت ملی❤️‍🔥", server: 91.107.173.252, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: BESTIIVPNBOT 7, server: 45.12.143.191, port: 20329, type: vless, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
+  - {name: BESTIIVPNBOT 8, server: 45.89.107.200, port: 8443, type: vless, uuid: 309fa273-6579-4cb2-9143-7cad50401eba, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY, short-id: 7cad5040}, servername: www.cloudflare.com, client-fingerprint: chrome, network: tcp}
+  - {name: آلمان, server: 85.195.101.122, port: 48129, type: vless, uuid: b338a8f4-9aa3-4e1d-b6b7-5efed8ae038b, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: BESTIIVPNBOT 9, server: 104.21.43.168, port: 443, type: vless, uuid: b2744521-78b7-4c24-86f2-4f751d1cb7bf, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: true, servername: Ggjd.digikala.lat, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: Ggjd.digikala.lat}}}
+  - {name: "Telegram: @v2node 6", server: 15.204.97.149, port: 23576, type: vless, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, servername: fuck.rkn, client-fingerprint: chrome, network: tcp}
+  - {name: BESTIIVPNBOT 10, server: ip-range.coin.name.ng, port: 8443, type: vless, uuid: ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4, tls: true, tfo: false, skip-cert-verify: true, servername: hzr27.sepiol.name.NG, client-fingerprint: firefox, network: ws, ws-opts: {path: /, headers: {Host: hzr27.sepiol.name.NG}}}
+  - {name: BESTIIVPNBOT 11, server: ip-range.web3.name.ng, port: 8443, type: vless, uuid: ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: true, servername: hzr50.sepiol.name.ng, client-fingerprint: firefox, network: ws, ws-opts: {path: /, headers: {Host: hzr50.sepiol.name.ng}}}
+  - {name: ‍🟩6, server: 43.250.54.155, port: 49000, type: vless, uuid: 160e9c18-c548-42bf-9c00-905aed8ef96f, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: 2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc, short-id: 170f8a2036}, servername: google.com, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: dropbox.com}}
+  - {name: 1, server: 104.21.43.168, port: 443, type: vless, uuid: b2744521-78b7-4c24-86f2-4f751d1cb7bf, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: true, servername: Ggjd.digikala.lat, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: Ggjd.digikala.lat}}}
+  - {name: BESTIIVPNBOT 12, server: ip-range.web3.name.ng, port: 8443, type: vless, uuid: ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: true, servername: hzr33.sepiol.name.ng, client-fingerprint: firefox, network: ws, ws-opts: {path: /, headers: {Host: hzr33.sepiol.name.ng}}}
+  - {name: "@planbnetvpnbot 👈تست رایگان نت ملی 4", server: ip-range.web3.name.ng, port: 8443, type: vless, uuid: ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: true, servername: hzr50.sepiol.name.ng, client-fingerprint: firefox, network: ws, ws-opts: {path: /, headers: {Host: hzr50.sepiol.name.ng}}}
+  - {name: "@Ken0Tim تلگرام`", server: oon.visaups.ir, port: 80, type: vless, uuid: 087d8602-503b-4091-9f05-44c20792083c, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: oon.visaups.ir}}}
+  - {name: "@planbnetvpnbot 👈تست رایگان نت ملی 5", server: ip-range.web3.name.ng, port: 8443, type: vless, uuid: ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: true, servername: hzr33.sepiol.name.ng, client-fingerprint: firefox, network: ws, ws-opts: {path: /, headers: {Host: hzr33.sepiol.name.ng}}}
+  - {name: "@planbnetvpnbot 👈تست رایگان نت ملی 6", server: 43.250.54.155, port: 49000, type: vless, uuid: 160e9c18-c548-42bf-9c00-905aed8ef96f, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: 2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc, short-id: 170f8a2036}, servername: google.com, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: dropbox.com}}
+  - {name: "Telegram: @v2node 7", server: ip-range.coin.name.ng, port: 8443, type: vless, uuid: ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4, tls: true, tfo: false, skip-cert-verify: true, servername: hzr27.sepiol.name.NG, client-fingerprint: firefox, network: ws, ws-opts: {path: /, headers: {Host: hzr27.sepiol.name.NG}}}
+  - {name: "[سرور نامحدود فقط ۷۰ هزار تومن]@kaanfing", server: 65.109.178.83, port: 443, type: vless, uuid: 7b148add-4438-426e-a583-50f11e7bd0e4, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇩🇪 德国_010609113, server: 57.129.53.180, port: 23576, type: vless, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, servername: fuck.rkn, client-fingerprint: chrome, network: tcp}
+  - {name: BESTIIVPNBOT 13, server: 95.164.85.109, port: 59374, type: vless, uuid: bfc78cd8-5951-4803-8d6c-4cedef8cd420, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc, short-id: d21e7c}, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
+  - {name: "@𝑽2_𝑴𝑶𝑫_𝑺𝑯𝑶𝑷 - 🇩🇪 ⚡ |", server: doprax.fxgoldensignals.com, port: 50904, type: vless, uuid: d4795cd9-cd7b-4cea-edfb-20cdcca5837b, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: "🇺🇸 [www.v2nodes.com] vless-US-12501948", server: 45.82.251.98, port: 8880, type: vless, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, tls: false, tfo: false, skip-cert-verify: true, servername: "%2F%3F---%40Azarbayjab1_Net---%40Azarbayjab1_Net---%40azarbayjab1_Net---%40azarbayjab1_Net---%40Azarbayjab1_Net", client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: "@𝑽2_𝑴𝑶𝑫_𝑺𝑯𝑶𝑷 - ملی ⚡ |", server: doprax.fxgoldensignals.com, port: 58153, type: vless, uuid: 14fe2c89-af11-4b7d-cc08-9641f0f2d8ee, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: "@Filter_breaker 4", server: doprax.fxgoldensignals.com, port: 50904, type: vless, uuid: d4795cd9-cd7b-4cea-edfb-20cdcca5837b, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: BESTIIVPNBOT 14, server: 45.89.109.25, port: 18278, type: vless, uuid: 7a30b7fc-4868-4d1d-84b8-16a3d3df0139, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: 8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg, short-id: f0}, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
+  - {name: "@Golestan_VPN - 💫`", server: octopusss5.info, port: 22955, type: vless, uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms, short-id: 6ba85179e30d4fc2}, servername: one-piece.com, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}}
+  - {name: "Telegram: @v2node 8", server: 91.107.148.79, port: 443, type: vless, uuid: 7b148add-4438-426e-a583-50f11e7bd0e4, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: "Telegram: @v2node 9", server: 104.21.86.253, port: 443, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: true, tfo: false, skip-cert-verify: true, servername: pqh27v1.carwashipdir.shop, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: "@planbnetvpnbot 👈تست رایگان نت ملی``` 2", server: betty.ns.cloudflare.com, port: 443, type: vless, uuid: d851e68a-af64-4dfc-a85a-7ffad2483230, tls: true, tfo: false, skip-cert-verify: true, servername: 639031180460930556.altima-amsjq.info, network: ws, ws-opts: {path: /oqxdqtws, headers: {Host: 639031180460930556.altima-amsjq.info}}}
+  - {name: BESTIIVPNBOT 15, server: 94.131.8.19, port: 45448, type: vless, uuid: 96fcf8cc-535d-46c4-b8f9-76058df48e3b, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E, short-id: 958639bf55e679}, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇺🇸 United States, server: 185.236.232.189, port: 8880, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: G, server: deu196.unboundaccess.org, port: 443, type: vless, uuid: f788e136-b245-4617-9d41-b505c7f41ef9, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs}, servername: www.bing.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇺🇸 ProxyCloud USA 👑, server: 185.236.232.223, port: 8880, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇫🇷 Paris, server: 104.26.6.89, port: 8443, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: true, servername: YjF03nNq0B.sOlEnTrAa.InFo, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: YjF03nNq0B.sOlEnTrAa.InFo}}}
+  - {name: 👀, server: 212.41.11.152, port: 443, type: vless, uuid: 1a6fe500-59da-4598-8576-256f06765ffb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8, short-id: 16895459a2c7768d}, servername: ru.sfasti.ru, client-fingerprint: chrome, network: tcp}
+  - {name: 🇳🇱 ⭐ The Netherlands, server: 45.140.147.74, port: 8880, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: true, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇬🇧 United Kingdom, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 443, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: true, servername: M84tG1gGw0.SoLeNtRaA.iNfO, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: M84tG1gGw0.SoLeNtRaA.iNfO}}}
+  - {name: King 👑, server: 104.18.35.85, port: 443, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: true, servername: cf.vless.sandesh.fr, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}}
+  - {name: 🇩🇪 DE 2 - ProxyCloud, server: nodc.bazarkha.sbs, port: 6003, type: vless, uuid: b3138f88-8845-41f7-8250-6eaa30be0110, tls: false, tfo: false, skip-cert-verify: true, network: http, http-opts: {method: GET, path: [/], headers: {Host: [www.stackoverflow.com]}}}
+  - {name: Free, server: m33a.vip784.com, port: 33801, type: vless, uuid: ad069756-c14b-4443-87af-4a503c5c08f5, tls: false, tfo: false, skip-cert-verify: true, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}}
+  - {name: 🇩🇪 DE 🗿, server: 172.66.40.99, port: 443, type: vless, uuid: 0261c8f9-413a-455b-942b-3713c6b0084a, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: true, servername: www.dollardoon.com, client-fingerprint: chrome, network: ws, ws-opts: {path: "/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048", headers: {Host: www.dollardoon.com}}}
+  - {name: 🇨🇦 Canada Free, server: m7a.vip784.com, port: 33801, type: vless, uuid: 13c10b21-6211-4d43-856f-2e54ef2ac2e2, tls: false, tfo: false, skip-cert-verify: true, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}}
+  - {name: ProxyCloud DO, server: 159.223.209.139, port: 46964, type: vless, uuid: 4bb35928-40bb-4bf3-95f1-9efdc4169147, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: ProxyCloud DO 2, server: 165.22.200.45, port: 45323, type: vless, uuid: 3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: ProxyCloud DO 3, server: 206.189.135.13, port: 41856, type: vless, uuid: 895a39fb-6c32-49af-b04d-efecc1f6c5fb, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: ProxyCloud DO 2 2, server: 139.59.46.188, port: 37548, type: vless, uuid: 976191fd-e929-467e-98b4-1349f58907d5, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: نوه هیتلر, server: 104.21.36.57, port: 443, type: vless, uuid: 0cc731b9-0375-4590-aeaa-7e2611a149fe, tls: true, tfo: false, skip-cert-verify: true, servername: black.fullmargintraders.com, network: ws, ws-opts: {path: /wsv/0cc731b9-0375-4590-aeaa-7e2611a149fe, headers: {Host: black.fullmargintraders.com}}}
+  - {name: ProxyCloud DO 3 2, server: 139.59.58.120, port: 31855, type: vless, uuid: 5661d93b-d932-4afa-97d1-c2ac455644d3, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: ProxyCloud DO 4, server: 170.64.154.27, port: 20651, type: vless, uuid: dda40179-f8b0-44a1-9926-bb64e7a767a7, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: 🇳🇱 ProxyCloud NL 🗿, server: 638928668169310838.rasht-drc-tusabp.info, port: 8880, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇳🇱 The Netherlands (هلند), server: 192.142.53.38, port: 16529, type: vless, uuid: d2d42f0d-5090-4901-bb7d-8ce85cfb8142, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: 🇺🇸 United States A, server: 45.82.251.114, port: 8880, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: true, servername: pqh25v1.vetdomok.shop, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: فرانسه, server: 195.42.233.125, port: 8880, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: هلند, server: narrow-passenger.oneeat.co, port: 80, type: vless, uuid: 5a12794b-2125-46d7-a748-927a989faa04, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: narrow-passenger.oneeat.co}}}
+  - {name: هلند خیلی خاص, server: 638929396024910159.lisbon-drc-dcrabj.info, port: 8880, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇩🇪 Germany 🗿, server: sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk, port: 80, type: vless, uuid: 05020a61-3c0c-4ead-b256-7851ff905a75, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk}}}
+  - {name: 🇰🇿 Kazakhstan Z, server: kz.accesspoints.cloakify.app, port: 38339, type: vless, uuid: 481c5606-b586-44d7-bc2e-d8ef30d67f62, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA, short-id: e16883e511}, servername: dl.google.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇧🇬 Bulgaria, server: 141.227.178.165, port: 25365, type: vless, uuid: 919526f8-86c8-4f43-b5f7-91eea1368bad, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}}
+  - {name: 🇺🇸 PC US, server: ovhwuxian.pai50288.uk, port: 8443, type: vless, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, tls: true, tfo: false, skip-cert-verify: true, servername: ovhwuxian.pai50288.uk, client-fingerprint: chrome, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}}
+  - {name: "🇳🇱 NL #мя_αʟσпε", server: 192.142.53.38, port: 37321, type: vless, uuid: 4914cac8-d4f7-4ffe-9c58-1117c9cb1887, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: /}}
+  - {name: ProxyCloud, server: 64.225.9.191, port: 25023, type: vless, uuid: 6bb4d50a-56f9-47d5-8ce8-d8b7fe9aa474, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: 🇮🇷 Iran, server: 89.44.242.222, port: 29500, type: vless, uuid: 888a20e2-fc3f-4f52-973c-36a6386225b8, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: 🇺🇸 US 👻, server: 104.21.3.219, port: 8443, type: vless, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, tls: true, tfo: false, skip-cert-verify: true, servername: ovhwuxian.pai50288.uk, client-fingerprint: chrome, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}}
+  - {name: ProxyCloud 2, server: 64.227.41.160, port: 57996, type: vless, uuid: ff3685d5-f031-46d3-88c0-0b6b0d1f1558, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: 🇧🇷 Brazil, server: 45.82.245.173, port: 80, type: vless, uuid: 1dbfb57c-164e-47c5-9355-8e0c429e7b99, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vless/, headers: {Host: ---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net}}}
+  - {name: 🇳🇱 NL - Russia, server: 94.26.228.10, port: 443, type: vless, uuid: 1a6fe500-59da-4598-8576-256f06765ffb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8, short-id: 16895459a2c7768d}, servername: ru.sfasti.ru, client-fingerprint: chrome, network: tcp}
+  - {name: "🇺🇸 USA II #мя_αʟσпε", server: 45.82.251.180, port: 8880, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: New York, server: 5.181.171.2, port: 443, type: vless, uuid: a87bf8a2-17a4-3054-b51e-876b5f1d0f24, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y}, servername: speed.cloudflare.com, client-fingerprint: chrome, network: tcp}
+  - {name: "🇺🇸 USA III #мя_αʟσпε", server: 5.181.171.2, port: 443, type: vless, uuid: a87bf8a2-17a4-3054-b51e-876b5f1d0f24, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y}, servername: speed.cloudflare.com, client-fingerprint: chrome, network: tcp}
+  - {name: "🇮🇳 India #мя_αʟσпε", server: 45.88.183.156, port: 12794, type: vless, uuid: 08704c01-7edb-454a-98a2-328ccb9936fa, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: 🇩🇪 DE by @oneclickvpnkeys, server: 91.99.168.213, port: 443, type: vless, uuid: 14eba471-4623-4ed1-b937-f5b2206749bf, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4, short-id: 1c547814}, servername: miro.com, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers}}
+  - {name: 🇳🇱 NL 2 by @oneclickvpnkeys, server: 638930382260455538.ahvaz-drc-tusabt.info, port: 8880, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇫🇷 France OVH, server: ov-france2.09vpn.com, port: 80, type: vless, uuid: 2a2d5f5d-6acb-438f-ba25-f3cbc6614b63, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vless/, headers: {Host: ov-france2.09vpn.com}}}
+  - {name: 🇳🇱 NL هلند, server: fearless-change.oneeat.co, port: 80, type: vless, uuid: b055036a-2d81-4d46-ab18-4e1898b58cec, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fearless-change.oneeat.co}}}
+  - {name: 🇫🇷 France X, server: m33a.vip784.com, port: 33801, type: vless, uuid: ad069756-c14b-4443-87af-4a503c5c08f5, tls: false, tfo: false, skip-cert-verify: true, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}}
+  - {name: 🇫🇷 ProxyCloud France, server: 185.231.205.99, port: 8880, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇺🇸 USA by @oneclickvpnkeys, server: 185.236.232.223, port: 8880, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇩🇪 Germany, server: hybrid.arvancloud.online, port: 44443, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, servername: www.speedtest.net, client-fingerprint: chrome, network: tcp}
+  - {name: 🇩🇪 Germany @oneclickvpnkeys, server: 193.151.135.21, port: 44443, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, servername: www.speedtest.net, client-fingerprint: chrome, network: tcp}
+  - {name: 🇩🇪 🇩🇪 Germany, server: nodc.bazarkha.sbs, port: 6003, type: vless, uuid: b3138f88-8845-41f7-8250-6eaa30be0110, tls: false, tfo: false, skip-cert-verify: true, network: http, http-opts: {method: GET, path: [/], headers: {Host: [www.stackoverflow.com]}}}
+  - {name: 🇺🇸 Ultra US, server: public18v7.fastipsport.com, port: 8880, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇩🇪 DE by HELIX Servers, server: magazine.sentry-warrunner.xyz, port: 443, type: vless, uuid: 14eba471-4623-4ed1-b937-f5b2206749bf, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4, short-id: 1c547814}, servername: miro.com, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers}}
+  - {name: 🇺🇸 Ultra US II, server: pqh27v4.waipdirect.shop, port: 8880, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇳🇱 NL🔥, server: ir.fxgoldensignals.com, port: 54567, type: vless, uuid: 44cb3f8c-57a4-4f2b-a0ae-d9121e54a598, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /54567/mvfkvk, headers: {Host: ir.fxgoldensignals.com}}}
+  - {name: 🇳🇱 The Netherlands, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 443, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: true, servername: I78nThHk0Q.sOlEnTrAa.InFo, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: I78nThHk0Q.sOlEnTrAa.InFo}}}
+  - {name: 🇺🇸 Ultra US III, server: ovhwuxian.pai50288.uk, port: 8443, type: vless, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, tls: true, tfo: false, skip-cert-verify: true, servername: ovhwuxian.pai50288.uk, client-fingerprint: chrome, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}}
+  - {name: 🇳🇱 Ultra NL, server: 195.93.253.49, port: 33094, type: vless, uuid: 6f8923d9-f812-4ca6-b93a-8f9227bf2eab, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: 35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE, short-id: 29489194da0d5d}, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇳🇱 Ultra NL II, server: 80.249.131.7, port: 443, type: vless, uuid: d4e4c02a-d969-47a6-ba0f-3d433fdac206, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8, short-id: 16895459a2c7768d}, servername: wa.sfasti.ru, client-fingerprint: firefox, network: tcp}
+  - {name: 🇺🇸 USA by PlanB Proxy, server: 185.236.232.123, port: 8880, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇺🇸 USA X, server: pqh30v8.waipdirect.shop, port: 8880, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇷🇺 Russia X, server: 5.181.171.2, port: 443, type: vless, uuid: 8e6acce9-8b56-7190-d491-7d84f8189e26, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y}, servername: speed.cloudflare.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇳🇱 The Netherlands Z 2, server: handsome-device.oneeat.co, port: 80, type: vless, uuid: 2ad87f95-7a0b-4018-8497-5ecaac2f0ddf, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: handsome-device.oneeat.co}}}
+  - {name: 🇫🇷 France, server: 185.231.205.99, port: 8880, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇳🇱 The Netherlands Z 3, server: fearless-change.oneeat.co, port: 80, type: vless, uuid: b055036a-2d81-4d46-ab18-4e1898b58cec, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fearless-change.oneeat.co}}}
+  - {name: 🇲🇾 Malaysia, server: 45.128.54.17, port: 443, type: vless, uuid: 297df885-9161-46cb-94d4-90a8a8489645, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dahuqpws}}
+  - {name: 🇰🇿 Kazakhstan, server: 176.120.72.63, port: 38339, type: vless, uuid: 481c5606-b586-44d7-bc2e-d8ef30d67f62, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA, short-id: e16883e511}, servername: dl.google.com, client-fingerprint: chrome, network: tcp}
   - {name: 🇰🇷 _KR_韩国, server: 221.150.109.89, port: 43231, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
   - {name: 🇰🇷 _KR_韩国_1, server: 168.126.234.233, port: 28860, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
   - {name: 🇺🇸 _US_美国_2, server: kfjdi.pages.dev, port: 443, type: trojan, password: er668, skip-cert-verify: true, network: ws, ws-opts: {path: "%25F0%259F%2594%2592"}}
@@ -75,43 +217,52 @@
   - {name: 🇺🇸 VMESS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-cg1c01.waimaojd.com:443, server: cg1c01.waimaojd.com, port: 443, type: vmess, uuid: be8e3136-b874-4085-bd23-ec3699300490, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: cg1c01.waimaojd.com}}}
   - {name: 🇺🇸 VMESS-美国-ChatGPT-TikTok-YouTube-cg1c04.waimaojd.com:443, server: cg1c04.waimaojd.com, port: 443, type: vmess, uuid: be8e3136-b874-4085-bd23-ec3699300490, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: cg1c04.waimaojd.com}}}
   - {name: 🇺🇸 VMESS-美国-ChatGPT-TikTok-YouTube-cg1c14.waimaojd.com:443, server: cg1c14.waimaojd.com, port: 443, type: vmess, uuid: be8e3136-b874-4085-bd23-ec3699300490, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: cg1c14.waimaojd.com}}}
-  - {name: 🇨🇳 浙江省嘉兴市 移动, server: 223.95.183.132, port: 25819, type: ss, cipher: aes-128-gcm, password: b637f2e47b7827b308ebf399008075d2}
-  - {name: 🇨🇳 中国 V2CROSS.COM, server: liubu9.singdns.com, port: 17459, type: ss, cipher: aes-128-gcm, password: 57bc0c04-8184-48f5-906b-897d095ed445}
+  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 58.152.53.219, port: 443, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇭🇰 香港 阿里云, server: n1761214911.74qxv.top, port: 443, type: vmess, uuid: 372c1939-299d-4946-9633-5ffa971f8b67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: n1761214911.74qxv.top}}}
   - {name: 🇬🇧 英国 V2CROSS.COM, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇨🇳 广东省湛江市 移动, server: tunnel1.qqa678.com, port: 47084, type: vmess, uuid: 3fc3310d-fd84-4933-b370-8cb2d565fab9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇬🇧 英国 V2CROSS.COM 2, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇭🇰 香港 阿里云 2, server: n1761214911.74qxv.top, port: 443, type: vmess, uuid: 372c1939-299d-4946-9633-5ffa971f8b67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: n1761214911.74qxv.top}}}
+  - {name: 🇬🇧 英国 V2CROSS.COM 3, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇬🇧 英国 V2CROSS.COM 4, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: 🇭🇰 香港|@ripaojiedian, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇭🇰 香港2|@ripaojiedian, server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
-  - {name: 🇭🇰 香港3|@ripaojiedian, server: 58.152.110.111, port: 443, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇭🇰 香港4|@ripaojiedian, server: 52.196.143.203, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇭🇰 香港5|@ripaojiedian, server: 58.152.53.219, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇭🇰 香港6|@ripaojiedian, server: oss-4.qqa678.com, port: 47081, type: vmess, uuid: e49b8721-f124-4999-814a-fc777c0ae190, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇯🇵 日本|@ripaojiedian, server: 43.206.227.6, port: 2053, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇯🇵 日本2|@ripaojiedian, server: 160.16.72.205, port: 4006, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 日本3|@ripaojiedian, server: 160.16.72.205, port: 1933, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇭🇰 香港2|@ripaojiedian, server: 91.149.236.182, port: 8388, type: ss, cipher: aes-256-gcm, password: OWsoMhOel+7mcZ+p}
+  - {name: 🇭🇰 香港3|@ripaojiedian, server: 58.152.18.147, port: 443, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇭🇰 香港4|@ripaojiedian, server: 95.40.93.39, port: 3830, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇭🇰 香港5|@ripaojiedian, server: 95.40.53.47, port: 3830, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇯🇵 日本|@ripaojiedian, server: 13.115.245.96, port: 2053, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇯🇵 日本2|@ripaojiedian, server: 160.16.130.21, port: 1933, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇯🇵 日本3|@ripaojiedian, server: 160.16.105.192, port: 4006, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
   - {name: 🇯🇵 日本4|@ripaojiedian, server: 223.95.183.132, port: 26334, type: ss, cipher: aes-128-gcm, password: b637f2e47b7827b308ebf399008075d2}
-  - {name: 🇸🇬 新加坡|@ripaojiedian, server: 160.16.124.17, port: 3901, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡2|@ripaojiedian, server: 160.16.132.38, port: 544, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡3|@ripaojiedian, server: 43.199.73.206, port: 1691, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡|@ripaojiedian, server: 160.16.85.33, port: 3901, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡2|@ripaojiedian, server: 160.16.130.21, port: 544, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡3|@ripaojiedian, server: 54.46.50.46, port: 3579, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
   - {name: 🇸🇬 新加坡4|@ripaojiedian, server: 223.95.183.132, port: 25819, type: ss, cipher: aes-128-gcm, password: b637f2e47b7827b308ebf399008075d2}
-  - {name: 🇺🇸 美国|@ripaojiedian, server: 160.16.85.33, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 美国2|@ripaojiedian, server: 160.16.89.176, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 美国3|@ripaojiedian, server: 13.192.183.185, port: 2173, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇺🇸 美国|@ripaojiedian, server: 160.16.105.192, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 美国2|@ripaojiedian, server: 160.16.85.33, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 美国3|@ripaojiedian, server: 54.199.172.151, port: 1221, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
   - {name: 🇭🇰 香港|@stairnode, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇭🇰 香港2|@stairnode, server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
-  - {name: 🇭🇰 香港3|@stairnode, server: 58.152.110.111, port: 443, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇭🇰 香港4|@stairnode, server: 52.196.143.203, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇭🇰 香港5|@stairnode, server: 58.152.53.219, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇭🇰 香港6|@stairnode, server: oss-4.qqa678.com, port: 47081, type: vmess, uuid: e49b8721-f124-4999-814a-fc777c0ae190, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇯🇵 日本|@stairnode, server: 43.206.227.6, port: 2053, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇯🇵 日本2|@stairnode, server: 160.16.72.205, port: 4006, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 日本3|@stairnode, server: 160.16.72.205, port: 1933, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇭🇰 香港2|@stairnode, server: 91.149.236.182, port: 8388, type: ss, cipher: aes-256-gcm, password: OWsoMhOel+7mcZ+p}
+  - {name: 🇭🇰 香港3|@stairnode, server: 58.152.18.147, port: 443, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇭🇰 香港4|@stairnode, server: 95.40.93.39, port: 3830, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇭🇰 香港5|@stairnode, server: 95.40.53.47, port: 3830, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇯🇵 日本|@stairnode, server: 13.115.245.96, port: 2053, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇯🇵 日本2|@stairnode, server: 160.16.130.21, port: 1933, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇯🇵 日本3|@stairnode, server: 160.16.105.192, port: 4006, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
   - {name: 🇯🇵 日本4|@stairnode, server: 223.95.183.132, port: 26334, type: ss, cipher: aes-128-gcm, password: b637f2e47b7827b308ebf399008075d2}
-  - {name: 🇸🇬 新加坡|@stairnode, server: 160.16.124.17, port: 3901, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡2|@stairnode, server: 160.16.132.38, port: 544, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡3|@stairnode, server: 43.199.73.206, port: 1691, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡|@stairnode, server: 160.16.85.33, port: 3901, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡2|@stairnode, server: 160.16.130.21, port: 544, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡3|@stairnode, server: 54.46.50.46, port: 3579, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
   - {name: 🇸🇬 新加坡4|@stairnode, server: 223.95.183.132, port: 25819, type: ss, cipher: aes-128-gcm, password: b637f2e47b7827b308ebf399008075d2}
-  - {name: 🇺🇸 美国|@stairnode, server: 160.16.85.33, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 美国2|@stairnode, server: 160.16.89.176, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 美国3|@stairnode, server: 13.192.183.185, port: 2173, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇺🇸 美国|@stairnode, server: 160.16.105.192, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 美国2|@stairnode, server: 160.16.85.33, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 美国3|@stairnode, server: 54.199.172.151, port: 1221, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: _CN_中国 2, server: xiaozhu1.kkieo555.cn, port: 41273, type: trojan, password: a545b52f-f4e4-4fcf-a0ec-059a483b5801, sni: douyin.com, skip-cert-verify: true}
+  - {name: _CN_中国 3, server: xiaozhu1.kkieo555.cn, port: 49214, type: trojan, password: ab9273cc-c5a1-4624-8244-04501ea41dec, sni: douyin.com, skip-cert-verify: true}
+  - {name: _CN_中国 4, server: 223.95.183.132, port: 28217, type: ss, cipher: aes-128-gcm, password: b637f2e47b7827b308ebf399008075d2}
+  - {name: _CN_中国 5, server: 223.95.183.132, port: 47116, type: ss, cipher: aes-128-gcm, password: b637f2e47b7827b308ebf399008075d2}
+  - {name: _CN_中国 6, server: 223.95.183.132, port: 25819, type: ss, cipher: aes-128-gcm, password: b637f2e47b7827b308ebf399008075d2}
+  - {name: 🇨🇳 广东省湛江市 移动 2, server: tunnel1.qqa678.com, port: 47084, type: vmess, uuid: 3fc3310d-fd84-4933-b370-8cb2d565fab9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: 🇺🇸 VL-RAW-TLS 🇺🇸 US-15.204.192.150:443, server: 15.204.192.150, port: 443, type: vless, uuid: c4fa89d4-fcb9-48ba-adbc-665181cc817f, tls: true, tfo: false, skip-cert-verify: true, servername: 147135010072.sec21org.com, network: tcp}
   - {name: VL-GRPC-NONE 🇱🇹 LT-84.32.9.134:8880, server: 84.32.9.134, port: 8880, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
   - {name: VL-WS-TLS 🏴‍☠️ NA-172.67.192.142:443, server: 172.67.192.142, port: 443, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: true, servername: ppal03-sHANbEH2.mRS-aNtOinETTE-OhArA.WorKerS.deV, client-fingerprint: randomized, network: ws, ws-opts: {path: "/0ZMEGjVSSsqFUJqv?ed=2560", headers: {Host: ppal03-sHANbEH2.mRS-aNtOinETTE-OhArA.WorKerS.deV}}}
@@ -216,234 +367,259 @@
   - {name: VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:443, server: 104.21.96.1, port: 443, type: vless, uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: true, servername: iPsyCHO.SUEx12.iR, client-fingerprint: randomized, network: ws, ws-opts: {path: "/RiuadVWEiFmFyL3C?ed=2560", headers: {Host: iPsyCHO.SUEx12.iR}}}
   - {name: VL-WS-TLS 🏴‍☠️ NA-172.67.156.99:443, server: 172.67.156.99, port: 443, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: true, servername: PPAL03.wopaJO6948.WorKErs.dEv, network: ws, ws-opts: {path: "/2h9pwob102xqfyhg?ed=2560", headers: {Host: PPAL03.wopaJO6948.WorKErs.dEv}}}
   - {name: VL-WS-TLS 🏴‍☠️ NA-188.114.96.0:443, server: 188.114.96.0, port: 443, type: vless, uuid: 57b195c6-5b14-4740-84dd-4eac9fa496dd, tls: true, tfo: false, skip-cert-verify: true, servername: 4fi0bned6rskd4f4x8b53lhibpjrrz7ppzbyhrqv99yf0i9riuwzp79gu5lahbt.1td780.workers.Dev, network: ws, ws-opts: {path: /, headers: {Host: 4fi0bned6rskd4f4x8b53lhibpjrrz7ppzbyhrqv99yf0i9riuwzp79gu5lahbt.1td780.workers.Dev}}}
-  - {name: 🇸🇬 更新于 01-16 00:52 by https://github.com/ts-sf/fly, server: 127.1.1.127, port: 80, type: vmess, uuid: 602736e4-a2e8-4eb3-9fc9-7c7082925365, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇨🇳 CN中国, server: 154.205.147.237, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 2272de48c53e0a57}
-  - {name: 🇺🇸 US美国, server: kfjdi.pages.dev, port: 443, type: trojan, password: er668, skip-cert-verify: true}
-  - {name: 🇨🇳 CN中国2, server: 156.244.36.105, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 34bafa5f59fc339f}
-  - {name: 🇨🇦 CA加拿大, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 🇭🇺 HU匈牙利, server: 109.61.39.150, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 01dc0d7cbb650bc3}
-  - {name: 🇳🇱 NL荷兰, server: fl3.cowjuice.me, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: X36TIi4C3NH6Oln3TdGyjg}
-  - {name: 未知, server: https://github.com/ALIILAPRO/v2rayNG-Config, port: 433, type: vmess, uuid: Free, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 浙江, server: 223.95.183.132, port: 26334, type: ss, cipher: aes-128-gcm, password: b637f2e47b7827b308ebf399008075d2}
-  - {name: 🇺🇸 US美国2, server: 71.19.148.143, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx}
-  - {name: 🇺🇸 US美国3, server: 92.118.112.101, port: 9483, type: ss, cipher: chacha20-ietf-poly1305, password: qFvn2fNEvBgM5knffrN96q}
-  - {name: 🇨🇳 CN中国3 42.7KB/s, server: liubu9.singdns.com, port: 17459, type: ss, cipher: aes-128-gcm, password: 57bc0c04-8184-48f5-906b-897d095ed445}
-  - {name: 🇯🇵 JP日本 3.3MB/s, server: 160.16.72.205, port: 4006, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 SG新加坡 2.9MB/s, server: 160.16.132.38, port: 544, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 US美国4, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 🇸🇬 SG新加坡2, server: 43.199.73.206, port: 1691, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇯🇴 JO约旦, server: 91.106.109.74, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 11bf054dcc0342cd}
-  - {name: 🇺🇸 US美国5, server: pupas-shirting-unsung.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx}
+  - {name: 🇸🇬 更新于 01-17 00:47 by https://github.com/ts-sf/fly, server: 127.1.1.127, port: 80, type: vmess, uuid: 602736e4-a2e8-4eb3-9fc9-7c7082925365, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 未知, server: 172.67.204.84, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}}
+  - {name: 🇭🇰 HK香港, server: 95.40.53.47, port: 3830, type: trojan, password: BxceQaOe, sni: t.me/ripaojiedian, skip-cert-verify: true}
+  - {name: 未知2, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: true, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}}
+  - {name: 未知3, server: yichueng.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: yichueng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: yichueng.org}}}
+  - {name: 🇺🇸 US美国, server: 54.199.172.151, port: 1221, type: trojan, password: BxceQaOe, sni: t.me/ripaojiedian, skip-cert-verify: true}
+  - {name: 🇺🇸 US美国2, server: pupas-shirting-unsung.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx}
+  - {name: 🇸🇬 SG新加坡 69.4KB/s, server: 160.16.130.21, port: 544, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
   - {name: 🇷🇺 RU俄罗斯, server: 185.242.86.156, port: 54170, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV}
-  - {name: 🇨🇦 CA加拿大2 36.1MB/s, server: 79.127.233.170, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇺🇸 US美国6, server: 160.16.85.33, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇭🇰 HK香港, server: 52.196.143.203, port: 443, type: trojan, password: BxceQaOe, sni: t.me/ripaojiedian, skip-cert-verify: true}
-  - {name: 🇯🇵 JP日本2 3.3MB/s, server: 160.16.72.205, port: 1933, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 US美国7, server: 160.16.89.176, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇭🇰 HK香港2, server: 58.152.53.219, port: 443, type: trojan, password: BxceQaOe, sni: t.me/ripaojiedian, skip-cert-verify: true}
-  - {name: 🇯🇵 JP日本3, server: 43.206.227.6, port: 2053, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇸🇬 SG新加坡3 677.8KB/s, server: 160.16.124.17, port: 3901, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 US美国8, server: 13.192.183.185, port: 2173, type: trojan, password: BxceQaOe, sni: t.me/ripaojiedian, skip-cert-verify: true}
-  - {name: 🇭🇰 HK香港3 455.9KB/s, server: 58.152.110.111, port: 443, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇨🇦 CA-79.127.233.170-0279, server: 79.127.233.170, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇺🇸 US-173.244.56.6-0280, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇨🇦 CA-79.127.233.170-0281, server: 79.127.233.170, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇺🇸 US-107.151.182.253-0900, server: 107.151.182.253, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: 🇺🇸 US-104.192.226.106-0284, server: 104.192.226.106, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇺🇸 US-156.146.38.168-0274, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇺🇸 US-156.146.38.170-0273, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: RELAY-104.18.17.77-0913, server: hgtrojan.zabc.net, port: 2083, type: vmess, uuid: e6395c20-4571-4b34-d6b1-55a5d36e49ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hgtrojan.zabc.net}}}
-  - {name: 🇺🇸 US-156.146.38.169-0271, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇺🇸 US-156.146.38.167-0272, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇨🇦 CA-79.127.200.169-0275, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇨🇦 CA-137.184.174.93-0287, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: MD-103.35.189.136-0285, server: 103.35.189.136, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: SS2QvbC9nqLp2sXXZo0BVy4slcErRuCt}
-  - {name: 🇺🇸 US-173.234.29.2-0276, server: 173.234.29.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇨🇦 CA-134.195.198.147-5011, server: 134.195.198.147, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇨🇦 CA-134.195.198.147-7306, server: 134.195.198.147, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: inna.cfd}}}
-  - {name: PA-138.186.142.80-0343, server: 138.186.142.80, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇯🇵 JP-172.105.199.111-0334, server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: PA-138.186.142.81-0335, server: 138.186.142.81, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇯🇵 JP-149.22.87.204-0339, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: EC-38.165.231.25-0288, server: 38.165.231.25, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇬🇧 GB-62.100.205.100-0289, server: 62.100.205.100, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: AE-151.242.251.144-0302, server: 151.242.251.144, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-  - {name: LT-45.87.175.22-0301, server: 45.87.175.22, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇳🇱 NL-193.29.139.141-0329, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: AE-151.242.251.152-0303, server: 151.242.251.152, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: AE-151.242.251.142-0312, server: 151.242.251.142, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: AE-151.242.251.137-0330, server: 151.242.251.137, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: o5osZg269v5zHpYjr1xY9s}
-  - {name: LT-45.87.175.174-0316, server: 45.87.175.174, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: 🇬🇧 GB-82.38.31.214-0326, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: 🇬🇧 GB-82.38.31.176-0306, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: LT-45.87.175.185-0313, server: 45.87.175.185, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: LT-45.87.175.154-0317, server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 🇬🇧 GB-82.38.31.210-0307, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: 🇳🇱 NL-193.29.139.177-5137, server: 193.29.139.177, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: LT-45.87.175.181-0300, server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: AE-151.242.251.147-0331, server: 151.242.251.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
-  - {name: AE-151.242.251.153-0297, server: 151.242.251.153, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
-  - {name: LT-45.87.175.171-0308, server: 45.87.175.171, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-  - {name: AE-151.242.251.131-0294, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-  - {name: LT-45.87.175.183-0296, server: 45.87.175.183, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 🇳🇱 NL-193.29.139.189-0467, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 🇬🇧 GB-82.38.31.218-0321, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: 🇳🇱 NL-193.29.139.151-0310, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇫🇷 FR-57.128.189.240-4865, server: 57.128.189.240, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: LT-45.87.175.92-4939, server: 45.87.175.92, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: AE-151.242.251.131-0299, server: 151.242.251.131, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
-  - {name: LT-45.87.175.155-0320, server: 45.87.175.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: 🇫🇷 FR-51.159.106.175-0323, server: 51.159.106.175, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: LT-45.87.175.177-0311, server: 45.87.175.177, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 🇨🇦 CA-193.203.203.66-0278, server: 193.203.203.66, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: S6jUK9Fw5fMHgNqlqXObHZWv8Tf4nEkm}
-  - {name: LT-45.87.175.187-0426, server: 45.87.175.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 🇦🇺 AU-95.111.222.113-0371, server: 95.111.222.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa}
-  - {name: 🇳🇱 NL-193.29.139.157-0322, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-  - {name: 🇳🇱 NL-193.29.139.217-0290, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
-  - {name: CZ-195.181.160.6-0327, server: 195.181.160.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇨🇦 CA-142.4.216.225-0340, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq}
-  - {name: 🇬🇧 GB-82.38.31.208-0342, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: 🇬🇧 GB-82.38.31.191-0325, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: AE-151.242.251.133-0337, server: 151.242.251.133, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: SE-121.127.46.147-0344, server: 121.127.46.147, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇩🇪 DE-62.133.60.43-5144, server: 62.133.60.43, port: 36456, type: ss, cipher: chacha20-ietf-poly1305, password: lXk5EGzRVYDjYqcWC5FwD3}
-  - {name: AR-190.103.176.32-0350, server: 190.103.176.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: LT-45.87.175.178-0355, server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: SI-45.83.131.43-0346, server: 45.83.131.43, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: HfAiyrdFbKJuKIQkGjvJrDFefmH8YDSC}
-  - {name: 🇫🇷 FR-195.154.119.77-0444, server: 195.154.119.77, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇫🇷 FR-91.134.8.101-4887, server: 91.134.8.101, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: LT-45.87.175.180-0332, server: 45.87.175.180, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
-  - {name: 🇸🇬 SG-68.183.227.4-0358, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: LT-45.87.175.28-0314, server: 45.87.175.28, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇰🇷 KR-129.154.220.60-5058, server: dv4.789900.xyz, port: 2096, type: vmess, uuid: 0c8f3e29-4ec9-4ba6-a6ef-4487873f5d05, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dv4.789900.xyz, network: ws, ws-opts: {path: /, headers: {Host: dv4.789900.xyz}}}
-  - {name: 🇰🇷 KR-146.56.177.166-0362, server: seoul03.zgjok.com, port: 443, type: vmess, uuid: 72a0dac4-9689-4a57-b164-5c65bfa94772, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: seoul03.zgjok.com, network: ws, ws-opts: {path: /, headers: {Host: seoul03.zgjok.com}}}
-  - {name: MD-103.231.73.211-5101, server: 103.231.73.211, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 8afc633eb63227e9}
-  - {name: MD-89.221.225.15-0351, server: 89.221.225.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yCbQ4bry4otfifK7oel71NaXpPL9pYJb}
-  - {name: 🇷🇺 RU-45.138.157.162-0462, server: 45.138.157.162, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: qFAJdBEqsI71jaSML67nHoPBCGhX94uk}
-  - {name: 🇬🇧 GB-82.38.31.217-0291, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: 🇬🇧 GB-82.38.31.194-0305, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: LT-45.87.175.199-0432, server: 45.87.175.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: BG-95.164.116.33-0357, server: 95.164.116.33, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pQmnC03JObbPhdh5FBJHgD6jnTLchsRA}
-  - {name: MD-213.159.66.206-0354, server: 213.159.66.206, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu}
-  - {name: LT-45.87.175.65-0304, server: 45.87.175.65, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇵🇱 PL-45.15.126.19-0352, server: 45.15.126.19, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t}
-  - {name: 🇳🇱 NL-109.201.152.181-0359, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
-  - {name: 🇳🇱 NL-51.15.17.169-0324, server: 51.15.17.169, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: MD-194.246.114.101-0364, server: 194.246.114.101, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk}
-  - {name: 🇲🇾 MY-47.250.45.234-5128, server: 47.250.45.234, port: 43063, type: vmess, uuid: c77f48f5-4be3-4461-b52b-49998e7b897b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇳🇱 NL-193.29.139.227-0328, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
-  - {name: 🇲🇾 MY-47.250.45.234-5129, server: 47.250.45.234, port: 8613, type: vmess, uuid: 80039b4d-bac0-4f89-82c7-54fad3b0a1ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: MD-94.131.104.147-0336, server: 94.131.104.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6VAcll4P8xPTUVVtHeST3onRmLoVIBSU}
-  - {name: 🇬🇧 GB-5.181.21.246-0450, server: 5.181.21.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gKYygTcRYhc3skc2x6tZ073lYz0DnieX}
-  - {name: 🇩🇪 DE-57.129.24.125-7271, server: 57.129.24.125, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}}
-  - {name: 🇵🇱 PL-89.223.93.176-0365, server: 89.223.93.176, port: 41348, type: ss, cipher: chacha20-ietf-poly1305, password: Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA}
-  - {name: NO-185.213.23.63-0388, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇬🇧 GB-146.70.61.37-0295, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: PT-185.113.143.186-0395, server: 185.113.143.186, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇨🇦 CA-142.4.216.225-0345, server: ca225.vpnbook.com, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq}
-  - {name: PK-156.59.243.6-0370, server: 156.59.243.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: ZA-156.38.168.58-0372, server: 156.38.168.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: CY-45.12.136.170-0402, server: 45.12.136.170, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: l668XHPejoSNNuD66BYzyehaCpZexiF7}
-  - {name: 🇨🇦 CA-45.154.204.7-0360, server: 45.154.204.7, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇯🇵 JP-160.16.130.66-0389, server: 160.16.130.66, port: 1933, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-153.121.39.240-5024, server: 153.121.39.240, port: 4006, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-160.16.87.174-0383, server: 160.16.87.174, port: 1933, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: KW-163.171.181.29-5037, server: 163.171.181.29, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: bddd79c7386646d6}
-  - {name: 🇯🇵 JP-153.121.65.107-0373, server: 153.121.65.107, port: 1933, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-160.16.57.238-0379, server: 160.16.57.238, port: 4006, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: "%�\x11�<'���KM\rK�MM\x0b��\r\x0b�L�L\f�%�", server: ssca.irundns.net, port: 443, type: ssr, cipher: aes-128-cfb, password: $$Turb0VPN$$, protocol: auth_aes128_md5, obfs: http_post, protocol-param: "", obfs-param: ""}
-  - {name: 🇯🇵 JP-160.16.63.16-0384, server: 160.16.63.16, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-160.16.117.182-0375, server: 160.16.117.182, port: 1933, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇬🇧 GB-141.98.101.178-0398, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: AE-147.78.0.182-0381, server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇯🇵 JP-202.181.103.246-0380, server: 202.181.103.246, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇨🇦 CA-23.162.200.227-7331, server: 23.162.200.227, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇬🇧 GB-141.98.101.182-0348, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇯🇵 JP-160.16.68.250-0397, server: 160.16.68.250, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-153.121.38.213-0387, server: 153.121.38.213, port: 1933, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇭🇰 HK-220.246.224.195-4902, server: hkt.gotochinatown.net, port: 80, type: vmess, uuid: a6ddfc37-05eb-11ed-af40-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hkt.gotochinatown.net}}}
-  - {name: 🇨🇦 CA-15.235.41.200-0895, server: 15.235.41.200, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇯🇵 JP-160.16.89.176-0377, server: 160.16.89.176, port: 4006, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇪🇸 ES-45.154.206.192-0407, server: 45.154.206.192, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇯🇵 JP-160.16.81.84-0376, server: 160.16.81.84, port: 4006, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-160.16.196.59-0378, server: 160.16.196.59, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 US-23.95.72.81-0400, server: 23.95.72.81, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: UAMVtHm54uahd6SiN5WcD16rsPSdabPG}
-  - {name: RO-185.126.237.38-0390, server: 185.126.237.38, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 未知4 4.3MB/s, server: 217.69.5.32, port: 443, type: vmess, uuid: ec4c349c-b3c6-4cff-be63-01eaad1dc098, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇭🇰 HK香港2, server: ru2.nnvpn.io, port: 443, type: trojan, password: yUHNMwWvenoHBaN5CtqKPwt1CTzXgW, sni: ru2.nnvpn.io, skip-cert-verify: true}
+  - {name: 未知5 46.7MB/s, server: 47.251.91.241, port: 42899, type: vmess, uuid: 0925b355-2bcd-4eae-9720-d2709e4f7e36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 未知6, server: usa.visa.com, port: 443, type: trojan, password: zWFjJENcljZm, sni: vahidqaz-7o61u7.vahidqaz.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vahidqaz-7o61u7.vahidqaz.workers.dev}}}
+  - {name: 🇳🇱 NL荷兰, server: fl3.cowjuice.me, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: X36TIi4C3NH6Oln3TdGyjg}
+  - {name: 🇯🇴 JO约旦, server: 91.106.109.74, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 11bf054dcc0342cd}
+  - {name: 🇺🇸 US美国3, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 🇺🇸 US美国4, server: 160.16.105.192, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 未知7 1.3MB/s, server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 未知8, server: fapeng.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: fapeng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: fapeng.org}}}
+  - {name: 🇨🇳 CN中国, server: 154.205.147.237, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 2272de48c53e0a57}
+  - {name: 未知9, server: 57.128.189.240, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /linkvws}}
+  - {name: 🇯🇵 JP日本 8.9MB/s, server: 160.16.105.192, port: 4006, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 未知10, server: https://github.com/ALIILAPRO/v2rayNG-Config, port: 433, type: vmess, uuid: Free, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 未知11, server: 161.248.30.3, port: 20086, type: vmess, uuid: 1006a928-2021-4a3b-beb5-d5853c6281c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇨🇳 TW台湾, server: green2.cdntencentmusic.com, port: 31102, type: trojan, password: f363c8b4-45cc-463b-959d-9ff613cbe2cd, sni: green2.cdntencentmusic.com, skip-cert-verify: true}
+  - {name: 🇺🇸 US美国5, server: kfjdi.pages.dev, port: 443, type: trojan, password: er668, skip-cert-verify: true}
+  - {name: 未知12 1.1MB/s, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmessws, headers: {Host: AZERB.NET}}}
+  - {name: 🇨🇦 CA加拿大 129.3MB/s, server: 79.127.233.170, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 未知13, server: 8.210.140.23, port: 54809, type: vmess, uuid: fde73daf-cc67-42f3-9935-35b132b01abd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 🇺🇸 US美国6, server: 71.19.148.143, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx}
+  - {name: 🇨🇦 CA加拿大2, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 🇯🇵 JP日本2, server: 13.115.245.96, port: 2053, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇸🇬 SG新加坡2 474.5KB/s, server: 160.16.85.33, port: 3901, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 未知14, server: 15.235.83.228, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: lammaland.org, network: ws, ws-opts: {path: linkvws, headers: {Host: lammaland.org}}}
+  - {name: 未知15, server: 47.83.18.10, port: 36968, type: vmess, uuid: 176bf1dd-647f-4c09-892e-5f9223dc8617, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}}
+  - {name: 未知16, server: 188.114.96.3, port: 443, type: trojan, password: XZ%7CP5%7DoQVc8V, sni: 004.eLecTrOCELLco-cf-004.WorkeRs.DEv, skip-cert-verify: true, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19?ed=2560", headers: {Host: 004.eLecTrOCELLco-cf-004.WorkeRs.DEv}}}
+  - {name: 未知17 3.0MB/s, server: 162.19.248.238, port: 550, type: vmess, uuid: ede27a79-b039-490b-932c-495de4b68880, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 未知18 4.0MB/s, server: 15.235.41.200, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}}
+  - {name: 未知19, server: store.ubi.com, port: 443, type: trojan, password: 87d1bfd4-574e-4c96-ad42-0426f27461ff, sni: _acme-challenge.2go.cloudns.be, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed", headers: {Host: _acme-challenge.2go.cloudns.be}}}
+  - {name: 🇸🇬 SG新加坡3, server: 54.46.50.46, port: 3579, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇨🇳 CN中国2, server: xiaozhu1.kkieo555.cn, port: 49214, type: trojan, password: ab9273cc-c5a1-4624-8244-04501ea41dec, sni: douyin.com, skip-cert-verify: true}
+  - {name: 🇨🇳 CN中国3, server: 156.244.36.105, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 34bafa5f59fc339f}
+  - {name: 🇨🇳 TW台湾2, server: 220.130.58.136, port: 31101, type: trojan, password: a0194cb9-ee34-4f75-b620-6d4d72ab1cb0, sni: green2.cdntencentmusic.com, skip-cert-verify: true}
+  - {name: 🇺🇸 US美国7, server: 92.118.112.101, port: 9483, type: ss, cipher: chacha20-ietf-poly1305, password: qFvn2fNEvBgM5knffrN96q}
+  - {name: 🇭🇰 HK香港3 342.1KB/s, server: 58.152.18.147, port: 443, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇯🇵 JP日本3 10.2MB/s, server: 160.16.130.21, port: 1933, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇨🇳 TW台湾3 90.1KB/s, server: cdnfire.xiaomispeed.com, port: 21102, type: trojan, password: 1e071e05-b6b4-4966-9a78-3a98e6c0e984, sni: cdnfire.xiaomispeed.com, skip-cert-verify: true}
+  - {name: 未知20, server: serkat.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: serkat.org, network: ws, ws-opts: {path: linkvws, headers: {Host: serkat.org}}}
+  - {name: 未知21, server: cf.090227.xyz, port: 443, type: trojan, password: 87d1bfd4-574e-4c96-ad42-0426f27461ff, sni: _acme-challenge.2go.cloudns.be, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: _acme-challenge.2go.cloudns.be}}}
+  - {name: 🇭🇺 HU匈牙利, server: 109.61.39.150, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 01dc0d7cbb650bc3}
+  - {name: 🇺🇸 US美国8, server: 160.16.85.33, port: 5076, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇭🇰 HK香港4, server: 95.40.93.39, port: 3830, type: trojan, password: BxceQaOe, sni: t.me/ripaojiedian, skip-cert-verify: true}
+  - {name: 🇭🇰 HK香港5, server: 58.152.53.219, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇨🇳 CN中国4, server: xiaozhu1.kkieo555.cn, port: 41273, type: trojan, password: a545b52f-f4e4-4fcf-a0ec-059a483b5801, sni: douyin.com, skip-cert-verify: true}
+  - {name: 🇺🇸 US-173.244.56.6-0227, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇨🇦 CA-79.127.233.170-0233, server: 79.127.233.170, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇺🇸 US-104.192.226.106-0232, server: 104.192.226.106, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: RELAY-104.18.17.77-0880, server: hgtrojan.zabc.net, port: 2083, type: vmess, uuid: e6395c20-4571-4b34-d6b1-55a5d36e49ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hgtrojan.zabc.net}}}
+  - {name: 🇺🇸 US-156.146.38.167-0231, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 US-156.146.38.168-0229, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 US-156.146.38.169-0230, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 US-104.192.226.106-5037, server: 104.192.226.106, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇨🇦 CA-137.184.174.93-5031, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: MD-103.35.189.136-0238, server: 103.35.189.136, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: SS2QvbC9nqLp2sXXZo0BVy4slcErRuCt}
+  - {name: 🇺🇸 US-173.234.29.2-0236, server: 173.234.29.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇺🇸 US-156.146.38.170-0228, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇨🇦 CA-79.127.200.169-0237, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇨🇦 CA-134.195.198.147-4883, server: 134.195.198.147, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇨🇦 CA-134.195.198.147-7172, server: 134.195.198.147, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: inna.cfd}}}
+  - {name: 🇯🇵 JP-172.105.199.111-0243, server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: 🇯🇵 JP-149.22.87.204-0245, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: PA-138.186.142.81-0242, server: 138.186.142.81, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇺🇸 US-77.83.141.171-5056, server: vc.fly.dev, port: 443, type: vmess, uuid: 35379219-6535-4f2e-a4fe-3e44f61e0eee, alterId: 32, cipher: auto, tls: true, skip-cert-verify: true, servername: vc.fly.dev, network: ws, ws-opts: {path: /, headers: {Host: vc.fly.dev}}}
+  - {name: EC-38.165.231.25-0244, server: 38.165.231.25, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇬🇧 GB-146.70.61.37-0348, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: AE-151.242.251.137-0262, server: 151.242.251.137, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: o5osZg269v5zHpYjr1xY9s}
+  - {name: 🇬🇧 GB-82.38.31.176-4936, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: AE-151.242.251.144-0257, server: 151.242.251.144, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: LT-45.87.175.22-0284, server: 45.87.175.22, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 GB-57.129.140.88-4926, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO}
+  - {name: 🇬🇧 GB-82.38.31.210-0270, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 GB-82.38.31.218-0251, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 GB-82.38.31.179-0290, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: AE-151.242.251.153-0280, server: 151.242.251.153, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
+  - {name: AE-151.242.251.133-0304, server: 151.242.251.133, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇳🇱 NL-193.29.139.141-0313, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: LT-45.87.175.28-0279, server: 45.87.175.28, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: AE-151.242.251.147-0274, server: 151.242.251.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
+  - {name: LT-45.87.175.185-0286, server: 45.87.175.185, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: 🇬🇧 GB-82.38.31.214-0277, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: LT-45.87.175.154-0269, server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: LT-45.87.175.155-0247, server: 45.87.175.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 GB-82.38.31.208-0281, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇫🇷 FR-51.159.106.175-0273, server: 51.159.106.175, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇳🇱 NL-109.201.152.181-0258, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
+  - {name: 🇬🇧 GB-82.38.31.194-0291, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: PA-138.186.142.80-0250, server: 138.186.142.80, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: LT-45.87.175.183-0252, server: 45.87.175.183, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: 🇳🇱 NL-193.29.139.157-0282, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: LT-45.87.175.181-0248, server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
+  - {name: 🇬🇧 GB-82.38.31.217-0312, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: AE-151.242.251.142-0261, server: 151.242.251.142, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: LT-45.87.175.174-0249, server: 45.87.175.174, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: BG-95.164.10.228-0331, server: 95.164.10.228, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: SDaFISr3Gfm6YkBSSrFIEwwWjEEU7Xbo}
+  - {name: 🇳🇱 NL-193.29.139.227-0298, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
+  - {name: 🇳🇱 NL-193.29.139.217-0254, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
+  - {name: 🇳🇱 NL-51.15.17.169-0264, server: 51.15.17.169, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: LT-45.87.175.178-0289, server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
+  - {name: 🇫🇷 FR-57.128.189.240-4737, server: 57.128.189.240, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: LT-45.87.175.177-0299, server: 45.87.175.177, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: LT-45.87.175.180-0295, server: 45.87.175.180, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
+  - {name: CZ-195.181.160.6-0297, server: 195.181.160.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: SI-45.83.131.43-0307, server: 45.83.131.43, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: HfAiyrdFbKJuKIQkGjvJrDFefmH8YDSC}
+  - {name: 🇰🇷 KR-129.154.220.60-4924, server: dv4.789900.xyz, port: 2096, type: vmess, uuid: 0c8f3e29-4ec9-4ba6-a6ef-4487873f5d05, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dv4.789900.xyz, network: ws, ws-opts: {path: /, headers: {Host: dv4.789900.xyz}}}
+  - {name: 🇨🇦 CA-142.4.216.225-0335, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq}
+  - {name: 🇫🇷 FR-91.134.8.101-4757, server: 91.134.8.101, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇰🇷 KR-146.56.177.166-0332, server: seoul03.zgjok.com, port: 443, type: vmess, uuid: 72a0dac4-9689-4a57-b164-5c65bfa94772, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: seoul03.zgjok.com, network: ws, ws-opts: {path: /, headers: {Host: seoul03.zgjok.com}}}
+  - {name: 🇸🇬 SG-68.183.227.4-0329, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: MD-213.159.66.206-0336, server: 213.159.66.206, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu}
+  - {name: 🇵🇱 PL-45.15.126.19-0328, server: 45.15.126.19, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6Ts2ZDTQAf3hkFoB8AFufDwsGrlF4e2t}
+  - {name: BG-95.164.116.33-0333, server: 95.164.116.33, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pQmnC03JObbPhdh5FBJHgD6jnTLchsRA}
+  - {name: 🇳🇱 NL-193.29.139.179-0288, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: 🇳🇱 NL-193.29.139.151-0285, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: AE-151.242.251.131-0318, server: 151.242.251.131, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj}
+  - {name: AE-151.242.251.152-0266, server: 151.242.251.152, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 GB-82.38.31.191-0317, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇲🇾 MY-85.211.193.195-1816, server: gtm1.ktmwan.net, port: 12901, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: 🇲🇾 MY-85.211.193.197-1822, server: gtm1.ktmwan.net, port: 12886, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: 🇲🇾 MY-85.211.193.195-1818, server: gtm1.ktmwan.net, port: 12889, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: 🇲🇾 MY-85.211.193.197-1819, server: gtm1.ktmwan.net, port: 12887, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: AR-190.103.176.32-0310, server: 190.103.176.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: MD-89.221.225.15-0321, server: 89.221.225.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yCbQ4bry4otfifK7oel71NaXpPL9pYJb}
+  - {name: 🇲🇾 MY-85.211.193.195-1826, server: gtm1.ktmwan.net, port: 12890, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: 🇲🇾 MY-85.211.193.195-1815, server: gtm1.ktmwan.net, port: 12883, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: 🇳🇱 NL-193.29.139.188-0260, server: 193.29.139.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇲🇾 MY-85.211.193.195-1824, server: gtm1.ktmwan.net, port: 12899, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: 🇲🇾 MY-85.211.193.197-1823, server: gtm1.ktmwan.net, port: 12885, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: 🇩🇪 DE-57.129.24.125-7137, server: 57.129.24.125, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}}
+  - {name: 🇲🇾 MY-85.211.193.197-1817, server: gtm1.ktmwan.net, port: 12888, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: 🇨🇦 CA-45.154.204.7-0340, server: 45.154.204.7, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇦🇺 AU-95.111.222.113-0327, server: 95.111.222.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: SVt6ZiWzRI1Yxeig4xBZwiJOt6ceXwGa}
+  - {name: 🇲🇾 MY-85.211.193.197-1821, server: gtm1.ktmwan.net, port: 12898, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: ZA-156.38.168.58-0351, server: 156.38.168.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇲🇾 MY-85.211.193.197-1825, server: gtm1.ktmwan.net, port: 12897, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: PK-156.59.243.6-0358, server: 156.59.243.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: LT-45.87.175.58-0259, server: 45.87.175.58, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 GB-45.14.245.2-0300, server: 45.14.245.2, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 17ZDORWIliQHuO6WRGHChXYMzdRtAYVP}
+  - {name: 🇵🇱 PL-89.223.93.176-0342, server: 89.223.93.176, port: 41348, type: ss, cipher: chacha20-ietf-poly1305, password: Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA}
+  - {name: NO-185.213.23.63-0347, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇬🇧 GB-62.100.205.100-0292, server: 62.100.205.100, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇯🇵 JP-160.16.63.16-4972, server: 160.16.63.16, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇲🇾 MY-85.211.193.197-1820, server: gtm1.ktmwan.net, port: 12891, type: vmess, uuid: 4ff18004-8e47-4a8f-bc85-d317d888ed99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}}
+  - {name: 🇬🇧 GB-141.98.101.178-0362, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: CY-45.83.20.206-0349, server: 45.83.20.206, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: g5RQoxQuVtnFv3Xxsa8edPisXNPnyWKy}
-  - {name: 🇯🇵 JP-160.16.138.24-0386, server: 160.16.138.24, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-153.121.51.29-0391, server: 153.121.51.29, port: 1933, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-160.16.150.76-5108, server: 160.16.150.76, port: 544, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: MD-213.159.76.21-0392, server: 213.159.76.21, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pNqnYf3kHesOpCchRvUZxfwTafRsOj7g}
-  - {name: 🇬🇧 GB-82.38.31.199-0318, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: LV-46.183.217.204-0385, server: 46.183.217.204, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇯🇵 JP-160.16.72.205-1964, server: 160.16.72.205, port: 1933, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: MD-176.123.1.175-0399, server: 176.123.1.175, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇸🇬 SG-167.150.100.115-0406, server: 167.150.100.115, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pJtDFXMfdW9VNdJpaf4e2LfFkXdWgxrz}
-  - {name: 🇯🇵 JP-160.16.116.227-5116, server: 160.16.116.227, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: TH-119.59.98.58-5151, server: 119.59.98.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: TH-103.253.74.94-0420, server: 103.253.74.94, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: rNa753BcUuPBL8YxXx9Bx5b4dfVFu45QkzorwqZizTl6Af3N}
-  - {name: 🇯🇵 JP-160.16.72.205-1963, server: 160.16.72.205, port: 4006, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: HR-185.192.124.188-0393, server: 185.192.124.188, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇷🇺 RU-45.89.55.173-0404, server: 45.89.55.173, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ixPymFma6P7U41wk9MNP7znPnvax3mjd}
-  - {name: 🇯🇵 JP-160.16.72.33-5102, server: 160.16.72.33, port: 3076, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 US-209.126.84.189-0911, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 209.126.84.189}}}
-  - {name: 🇯🇵 JP-103.75.118.125-0422, server: 103.75.118.125, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XLOrvLWkCBBBxLqSEe9S8lnC5PLsNfRh}
-  - {name: 🇭🇰 HK-58.152.110.111-0922, server: 58.152.110.111, port: 443, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇩🇰 DK-192.36.27.94-0423, server: 192.36.27.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇳🇱 NL-51.15.23.63-0421, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇯🇵 JP-160.16.124.55-0411, server: 160.16.124.55, port: 544, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 US-23.95.75.146-0405, server: 23.95.75.146, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: NDRySIABARbErNIVsCNVkyYAHiBzhveT}
-  - {name: 🇯🇵 JP-160.16.106.99-0928, server: 160.16.106.99, port: 3076, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 US-209.126.84.189-0905, server: v2ray.codefyinc.com, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: v2ray.codefyinc.com}}}
-  - {name: 🇨🇦 CA-23.95.76.59-0374, server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: MD-213.159.67.124-5143, server: 213.159.67.124, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp}
-  - {name: VN-103.163.218.2-5009, server: 103.163.218.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇯🇵 JP-160.16.132.38-1967, server: 160.16.132.38, port: 544, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: LT-45.87.175.190-0315, server: 45.87.175.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 🇯🇵 JP-153.121.45.139-0403, server: 153.121.45.139, port: 3076, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇳🇱 NL-193.29.139.179-0292, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 🇬🇧 GB-82.38.31.179-0298, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: LT-45.87.175.58-0430, server: 45.87.175.58, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇳🇱 NL-193.29.139.240-5130, server: 193.29.139.240, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇯🇵 JP-160.16.106.99-0408, server: 160.16.106.99, port: 544, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇨🇦 CA-51.79.102.253-0899, server: 51.79.102.253, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇯🇵 JP-160.16.70.180-5107, server: 160.16.70.180, port: 544, type: trojan, password: 61d8077bfb174e171b8283f155a555ad, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: MT-171.22.254.17-0446, server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: RELAY-172.67.197.47-0433, server: c7.620720.xyz, port: 8443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: c7.620720.xyz, network: ws, ws-opts: {path: /, headers: {Host: c7.620720.xyz}}}
-  - {name: BE-192.71.249.78-4854, server: 192.71.249.78, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇭🇰 HK-103.141.221.88-0437, server: 103.141.221.88, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
-  - {name: CY-134.255.210.49-0458, server: 134.255.210.49, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: AE-95.174.68.33-0464, server: 95.174.68.33, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8}
-  - {name: 🇭🇰 HK-203.23.128.33-0438, server: 203.23.128.33, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇬🇧 GB-45.14.245.2-0341, server: 45.14.245.2, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 17ZDORWIliQHuO6WRGHChXYMzdRtAYVP}
-  - {name: MA-154.70.207.97-0449, server: 154.70.207.97, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: AR-38.54.45.129-0465, server: 38.54.45.129, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: PR-185.47.255.22-0445, server: 185.47.255.22, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: LT-193.135.174.135-0442, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: NO-107.174.114.71-0470, server: 107.174.114.71, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 595HLF3fHUuw0McM51tpvPygSIB1uf4D}
-  - {name: BG-38.60.247.151-0451, server: 38.60.247.151, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: PE-138.186.143.32-0453, server: 138.186.143.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: MD-178.23.190.238-0461, server: 178.23.190.238, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uo7EbtqIwgZXXHmMv5LbLcOxptyPlNkh}
-  - {name: PE-138.186.143.32-0454, server: 138.186.143.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: LT-45.87.175.197-4935, server: 45.87.175.197, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: FI-38.244.136.233-5154, server: promo18v.bystrivpn.ru, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: dAHM1pm8ag7KdlrUylQi6t}
-  - {name: BG-95.164.10.228-0333, server: 95.164.10.228, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: SDaFISr3Gfm6YkBSSrFIEwwWjEEU7Xbo}
-  - {name: 🇬🇧 GB-82.38.31.205-5069, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: 🇨🇳 TW-154.223.20.79-0457, server: 154.223.20.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: PR-185.47.255.22-0440, server: 185.47.255.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: KZ-109.61.39.28-0369, server: 109.61.39.28, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: SI-192.71.244.150-0466, server: 192.71.244.150, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: BR-38.54.57.90-0448, server: 38.54.57.90, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: RELAY-172.67.197.47-0912, server: sy4.620720.xyz, port: 443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sy4.620720.xyz}}}
-  - {name: MX-147.78.1.230-0459, server: 147.78.1.230, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: KZ-45.159.250.190-4954, server: 45.159.250.190, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇩🇪 DE-185.235.137.77-0456, server: free-de-3.undef.network, port: 443, type: trojan, password: xtA6WF92Itmhm9jfvXUH1MDVL, sni: free-de-3.undef.network, skip-cert-verify: true}
-  - {name: MX-147.78.1.230-0460, server: 147.78.1.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇩🇪 DE-38.60.250.107-0468, server: 38.60.250.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: PY-38.165.233.18-4964, server: 38.165.233.18, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇯🇵 JP-103.106.228.247-5094, server: 103.106.228.247, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇳🇱 NL-193.29.139.202-4951, server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: RELAY-172.67.197.47-0439, server: t1.620720.xyz, port: 8443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: t1.620720.xyz}}}
-  - {name: 🇪🇸 ES-37.143.130.203-4886, server: 37.143.130.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇫🇷 FR-195.154.119.77-0325, server: 195.154.119.77, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SA-154.205.134.251-4897, server: 154.205.134.251, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7bc8eeffd0325141}
+  - {name: 🇯🇵 JP-160.16.116.227-0361, server: 160.16.116.227, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇲🇾 MY-47.250.45.234-4988, server: 47.250.45.234, port: 8613, type: vmess, uuid: 80039b4d-bac0-4f89-82c7-54fad3b0a1ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: TH-119.59.98.58-0394, server: 119.59.98.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇭🇰 HK-220.246.224.195-4957, server: hkt.gotochinatown.net, port: 80, type: vmess, uuid: 990e8f34-bd4f-11ef-bdb9-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, servername: hkt.gotochinatown.net, network: ws, ws-opts: {path: /, headers: {Host: hkt.gotochinatown.net}}}
+  - {name: PT-185.113.143.186-0367, server: 185.113.143.186, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: HR-185.192.124.188-0366, server: 185.192.124.188, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: CY-45.12.136.170-0320, server: 45.12.136.170, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: l668XHPejoSNNuD66BYzyehaCpZexiF7}
+  - {name: MD-213.159.76.21-0357, server: 213.159.76.21, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pNqnYf3kHesOpCchRvUZxfwTafRsOj7g}
+  - {name: 🇬🇧 GB-141.98.101.182-0360, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: LT-45.87.175.69-0253, server: 45.87.175.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: "%�\x11�<'���KM\rK�MM\x0b��\r\x0b�L�L\f�%�", server: ssca.irundns.net, port: 443, type: ssr, cipher: aes-128-cfb, password: $$Turb0VPN$$, protocol: auth_aes128_md5, obfs: http_post, protocol-param: "", obfs-param: ""}
+  - {name: 🇯🇵 JP-160.16.68.250-0365, server: 160.16.68.250, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: AE-147.78.0.182-0354, server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇷🇺 RU-45.89.55.173-0334, server: 45.89.55.173, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ixPymFma6P7U41wk9MNP7znPnvax3mjd}
+  - {name: 🇯🇵 JP-160.16.196.59-0356, server: 160.16.196.59, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 US-23.95.72.81-0373, server: 23.95.72.81, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: UAMVtHm54uahd6SiN5WcD16rsPSdabPG}
+  - {name: 🇨🇦 CA-23.95.76.59-0372, server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇩🇪 DE-130.61.250.10-0886, server: frankfurt01.zgjok.com, port: 443, type: vmess, uuid: b71579b1-6593-426d-90ac-f002fa96ade1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: frankfurt01.zgjok.com}}}
+  - {name: 🇯🇵 JP-160.16.144.208-0363, server: 160.16.144.208, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: LT-45.87.175.171-0283, server: 45.87.175.171, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: 🇯🇵 JP-160.16.138.24-0359, server: 160.16.138.24, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: RO-185.126.237.38-0370, server: 185.126.237.38, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇯🇵 JP-160.16.72.205-0378, server: 160.16.72.205, port: 1933, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-160.16.105.192-0893, server: 160.16.105.192, port: 4006, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: MD-213.159.67.124-0326, server: 213.159.67.124, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp}
+  - {name: 🇯🇵 JP-160.16.72.205-0380, server: 160.16.72.205, port: 4006, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 SG-167.150.100.115-0381, server: 167.150.100.115, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pJtDFXMfdW9VNdJpaf4e2LfFkXdWgxrz}
+  - {name: 🇯🇵 JP-160.16.130.21-0892, server: 160.16.130.21, port: 1933, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-202.181.103.246-0355, server: 202.181.103.246, port: 1281, type: trojan, password: 381f2e86233720eacda26d50e9aa26da, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 US-209.126.84.189-0872, server: v2ray.codefyinc.com, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: v2ray.codefyinc.com}}}
+  - {name: 🇨🇦 CA-15.235.41.200-0862, server: 15.235.41.200, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇨🇦 CA-193.203.203.66-0241, server: 193.203.203.66, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: S6jUK9Fw5fMHgNqlqXObHZWv8Tf4nEkm}
+  - {name: 🇵🇱 PL-217.30.10.70-5005, server: 217.30.10.70, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c}
+  - {name: 🇭🇰 HK-91.149.236.182-0887, server: 91.149.236.182, port: 8388, type: ss, cipher: aes-256-gcm, password: OWsoMhOel+7mcZ+p}
+  - {name: 🇯🇵 JP-160.16.85.33-0895, server: 160.16.85.33, port: 3901, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇳🇱 NL-51.15.23.63-0382, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇯🇵 JP-160.16.130.21-0896, server: 160.16.130.21, port: 544, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇵🇱 PL-217.30.10.70-5006, server: 217.30.10.70, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
+  - {name: 🇪🇸 ES-45.154.206.192-0364, server: 45.154.206.192, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: MD-194.246.114.101-0377, server: 194.246.114.101, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk}
+  - {name: 🇵🇱 PL-217.30.10.70-5009, server: 217.30.10.70, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ}
+  - {name: 🇩🇰 DK-192.36.27.94-0386, server: 192.36.27.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇵🇱 PL-217.30.10.70-5013, server: 217.30.10.70, port: 9073, type: ss, cipher: aes-256-cfb, password: daFYagqDdBdA6VTX}
+  - {name: 🇵🇱 PL-217.30.10.70-5012, server: 217.30.10.70, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF}
+  - {name: 🇵🇱 PL-217.30.10.70-5007, server: 217.30.10.70, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL}
+  - {name: 🇯🇵 JP-160.16.132.38-0368, server: 160.16.132.38, port: 544, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇵🇱 PL-217.30.10.70-5003, server: 217.30.10.70, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
+  - {name: VN-103.163.218.2-0390, server: 103.163.218.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇵🇱 PL-217.30.10.70-5002, server: 217.30.10.70, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4}
+  - {name: 🇬🇧 GB-82.38.31.202-0339, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇨🇦 CA-23.162.200.227-7197, server: 23.162.200.227, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: VN-103.163.218.2-9206, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇯🇵 JP-103.75.118.125-0376, server: 103.75.118.125, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XLOrvLWkCBBBxLqSEe9S8lnC5PLsNfRh}
+  - {name: LT-45.87.175.166-0276, server: 45.87.175.166, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
+  - {name: 🇭🇰 HK-58.152.18.147-0888, server: 58.152.18.147, port: 443, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-155.248.184.84-1740, server: tuntro003.instconn.com, port: 443, type: trojan, password: 30077070-596e-48ea-9400-14c8ed07bd97, sni: login-staticjpc.jasmine-douyin.top, skip-cert-verify: true}
+  - {name: 🇨🇦 CA-142.4.216.225-0293, server: ca225.vpnbook.com, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq}
+  - {name: 🇩🇪 DE-185.235.137.77-0305, server: free-de-3.undef.network, port: 443, type: trojan, password: xtA6WF92Itmhm9jfvXUH1MDVL, sni: free-de-3.undef.network, skip-cert-verify: true}
+  - {name: RELAY-172.67.197.47-0879, server: sy4.620720.xyz, port: 443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sy4.620720.xyz}}}
+  - {name: 🇩🇪 DE-62.133.60.43-0409, server: 62.133.60.43, port: 36456, type: ss, cipher: chacha20-ietf-poly1305, password: lXk5EGzRVYDjYqcWC5FwD3}
+  - {name: MD-178.23.190.238-0303, server: 178.23.190.238, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uo7EbtqIwgZXXHmMv5LbLcOxptyPlNkh}
+  - {name: CY-134.255.210.49-4756, server: 134.255.210.49, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇬🇧 GB-5.181.21.246-0306, server: 5.181.21.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gKYygTcRYhc3skc2x6tZ073lYz0DnieX}
+  - {name: MD-94.131.104.147-0296, server: 94.131.104.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6VAcll4P8xPTUVVtHeST3onRmLoVIBSU}
+  - {name: 🇰🇷 KR-218.237.185.230-0401, server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
+  - {name: PY-38.165.233.18-4841, server: 38.165.233.18, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: AE-95.174.68.33-0397, server: 95.174.68.33, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8}
+  - {name: 🇳🇱 NL-193.29.139.251-0271, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: BR-38.54.57.90-0393, server: 38.54.57.90, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: RELAY-104.21.76.158-0405, server: c7.620720.xyz, port: 8443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: c7.620720.xyz, network: ws, ws-opts: {path: /, headers: {Host: c7.620720.xyz}}}
+  - {name: 🇺🇸 US-209.126.84.189-0878, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 209.126.84.189}}}
+  - {name: 🇷🇺 RU-45.138.157.162-0330, server: 45.138.157.162, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: qFAJdBEqsI71jaSML67nHoPBCGhX94uk}
+  - {name: LT-193.135.174.135-4837, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: LT-45.87.175.190-0287, server: 45.87.175.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: LT-45.87.175.197-0391, server: 45.87.175.197, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: PE-138.186.143.32-0425, server: 138.186.143.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: NO-107.174.114.71-0384, server: 107.174.114.71, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 595HLF3fHUuw0McM51tpvPygSIB1uf4D}
+  - {name: LT-45.87.175.193-0338, server: 45.87.175.193, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: LT-45.87.175.192-0346, server: 45.87.175.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: EC-185.47.253.227-4762, server: 185.47.253.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: KZ-45.159.250.190-0408, server: 45.159.250.190, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇭🇰 HK-203.23.128.33-0407, server: 203.23.128.33, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: MX-147.78.1.230-0412, server: 147.78.1.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇬🇧 GB-82.38.31.205-0416, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: KZ-109.61.39.28-0345, server: 109.61.39.28, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: AE-151.242.251.137-0255, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: LT-45.87.175.65-0314, server: 45.87.175.65, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: GT-185.47.254.87-0426, server: 185.47.254.87, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇮🇳 IN-134.209.147.198-4775, server: 134.209.147.198, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: MT-171.22.254.17-0395, server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: RELAY-172.67.197.47-0403, server: t1.620720.xyz, port: 8443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: t1.620720.xyz}}}
+  - {name: PE-138.186.143.32-0422, server: 138.186.143.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: LT-45.87.175.187-0275, server: 45.87.175.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: 🇺🇸 US-23.95.75.146-0383, server: 23.95.75.146, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: NDRySIABARbErNIVsCNVkyYAHiBzhveT}
+  - {name: ID-154.205.159.100-4839, server: 154.205.159.100, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇳🇱 NL-193.29.139.189-0301, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: LT-45.87.175.188-0278, server: 45.87.175.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
+  - {name: 🇳🇱 NL-193.29.139.202-0246, server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
   - {name: "سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:", server: Everyday-VPN.Telegram-Channel, port: 443, type: vless, uuid: 11111111-2222-1111-1111-111111111111, tls: true, tfo: false, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
   - {name: "@Everyday_VPN | 01 🇩🇪⚡️", server: 2a01:4f8:1c1b:7df::1, port: 443, type: vless, uuid: 764a13da-76a5-4bc0-a2c9-e2a02f62408f, tls: true, tfo: false, skip-cert-verify: true, reality-opts: {public-key: AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw, short-id: 32d7a82d}, servername: gsmarena.com, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN"}}
