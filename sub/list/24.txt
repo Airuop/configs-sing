@@ -1,3 +1,3 @@
-  - {name: 🇨🇳 中国 上海欧网网络科技发展有限公司, server: liubu9.singdns.com, port: 17459, type: ss, cipher: aes-128-gcm, password: 57bc0c04-8184-48f5-906b-897d095ed445}
-  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 58.152.110.50, port: 443, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇨🇳 台湾省台中市 中华电信, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: c91410bb-b777-4daf-988b-d5445d143e6b, sni: green2.cdntencentmusic.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 58.152.110.50, port: 443, type: trojan, password: BxceQaOe, sni: 58.152.110.50, skip-cert-verify: true}
+  - {name: 🇭🇰 香港 电讯盈科有限公司 2, server: v30.hdacd.com, port: 30830, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇨🇳 台湾省台中市 中华电信, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 259dc1a9-d8f5-4db5-924d-d846ec7fbd9b, sni: green2.cdntencentmusic.com, skip-cert-verify: true}
