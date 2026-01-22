@@ -1,7 +1,7 @@
-  - {name: 🇭🇰 香港 特别行政区, server: 154.90.60.117, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6f3fdf1a9ce11652}
-  - {name: 🇨🇦 加拿大 V2CROSS.COM, server: 167.17.185.228, port: 10889, type: trojan, password: cTv.9PDdCt-wybBrG1qlxI5UJuaEj, sni: web.max, skip-cert-verify: true}
-  - {name: 🇱🇻 拉脱维亚 V2CROSS.COM, server: lv.vpnsparta.pro, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 8afc633eb63227e9}
+  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 58.152.25.130, port: 443, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇯🇵 日本 V2CROSS.COM, server: seoul03.zgjok.com, port: 443, type: vmess, uuid: 72a0dac4-9689-4a57-b164-5c65bfa94772, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: seoul03.zgjok.com, network: ws, ws-opts: {path: /, headers: {Host: seoul03.zgjok.com}}}
+  - {name: 🇫🇷 法国 国际航空电讯集团公司(SITA), server: 57.129.95.232, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 420946afc5918c49}
+  - {name: 🇬🇧 英国 V2CROSS.COM, server: 141.95.106.215, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: cbbcbfd5330475d1}
   - {name: 🇪🇸 西班牙 V2CROSS.COM, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: true}
-  - {name: 🇩🇪 德国 黑森州法兰克福Choopa数据中心, server: 45.32.158.138, port: 20994, type: trojan, password: x.8ur1QiCyzlRHXeaB5UwoDfgZ04s, sni: ads.x5.ru, skip-cert-verify: true}
-  - {name: 🇭🇰 香港 电讯盈科有限公司, server: 58.152.18.124, port: 443, type: trojan, password: 4843e94d205f3893f588255a591abe94, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 美国 CDNetworks, server: 163.171.181.30, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 32a9a16d8a041c98}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.18.32.47, port: 443, type: vmess, uuid: 52c7f779-2cbc-4ec9-d4eb-7f62964e4a4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dump.nootkasound7.com, network: ws, ws-opts: {path: /ABC, headers: {Host: dump.nootkasound7.com}}}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: t1.620720.xyz, port: 8443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: t1.620720.xyz}}}
