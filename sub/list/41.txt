@@ -48,9 +48,9 @@
   - {name: 🇯🇵 JP6｜机房｜低风险, server: xiaozhu1.kkieo555.cn, port: 41273, type: trojan, password: cdfb1e22-e278-4eca-8030-916b906a3169, sni: douyin.com, skip-cert-verify: true}
   - {name: 🇨🇳 TW8｜机房｜低风险, server: xiaozhu1.kkieo555.cn, port: 41274, type: trojan, password: 815deda8-824b-4703-9fe2-1282b28900c3, sni: douyin.com, skip-cert-verify: true}
   - {name: 🇯🇵 JP7｜机房｜低风险, server: xiaozhu1.kkieo555.cn, port: 41273, type: trojan, password: d1505dbc-d89e-4c4d-8a7e-de95ec332de5, sni: douyin.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港4|@ripaojiedian, server: 203.198.122.187, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇺🇸 美国2|@ripaojiedian, server: 52.195.170.6, port: 491, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡2|@ripaojiedian, server: 160.16.87.174, port: 3901, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇭🇰 HK13｜家宽｜非常安全, server: 203.198.122.187, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇺🇸 US21｜机房｜低风险, server: 52.195.170.6, port: 491, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 SG7｜机房｜低风险, server: 160.16.87.174, port: 3901, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
   - {name: 🇸🇬 新加坡3|@ripaojiedian, server: 13.158.129.83, port: 3579, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
   - {name: 🇺🇸 美国3|@ripaojiedian, server: 13.158.129.83, port: 2173, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
   - {name: 🇩🇪 DE29｜机房｜高风险 (黑名单), server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
@@ -58,25 +58,35 @@
   - {name: 🇩🇪 DE38｜机房｜低风险, server: 135.125.232.253, port: 2053, type: trojan, password: iwangjie, sni: nodes.830901.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: nodes.830901.xyz}}}
   - {name: 🇫🇷 FR3｜机房｜低风险, server: 141.94.68.216, port: 2053, type: trojan, password: iwangjie, sni: nodes.830901.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: nodes.830901.xyz}}}
   - {name: 🇩🇪 DE40｜机房｜低风险, server: 135.125.232.253, port: 2053, type: trojan, password: iwangjie, sni: nodes.830901.xyz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: nodes.830901.xyz}}}
+  - {name: r♡ya@V2rayBaaz◇⃟💜, server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk, port: 1743, type: hysteria2, password: 17cdeb6c-f046-11ee-bdac-f23c93141fad, auth: 17cdeb6c-f046-11ee-bdac-f23c93141fad, sni: c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk, skip-cert-verify: true}
+  - {name: "r♡ya@V2rayBaaz◇⃟💜 #1", server: 75.127.13.83, port: 47974, type: hysteria2, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, auth: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: true}
   - {name: 🇺🇸 美国2, server: mg2.mangshe.xyz, port: 2056, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, auth: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, sni: mg2.mangshe.xyz, skip-cert-verify: true}
   - {name: 🇸🇬 新加坡1, server: xjp1.mangshe.xyz, port: 2055, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, auth: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, sni: xjp1.mangshe.xyz, skip-cert-verify: true}
   - {name: 🇯🇵 JP, server: jp7.dexlos.com, port: 13778, type: hysteria2, password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61, auth: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61, skip-cert-verify: true}
+  - {name: "@Magsin_Vpn 😍", server: 172.233.97.125, port: 8443, type: hysteria2, password: 9c23940e-efd8-4763-bfb5-54739b50893d, auth: 9c23940e-efd8-4763-bfb5-54739b50893d, sni: hy8.hy2yydsapi.top, skip-cert-verify: true}
+  - {name: "r♡ya@V2rayBaaz◇⃟💜 #3", server: 206.71.158.37, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "r♡ya@V2rayBaaz◇⃟💜 #4", server: 206.71.158.37, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: 🇩🇪 DE, server: de.eyucdn.xyz, port: 2056, type: hysteria2, password: a084933d-0b41-4571-ae0c-7163b8c71ed1, auth: a084933d-0b41-4571-ae0c-7163b8c71ed1, sni: de.eyucdn.xyz, skip-cert-verify: true}
   - {name: 🇭🇰 HK, server: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com, port: 443, type: hysteria2, password: a305ac08-d136-11ee-b6db-f23c91cfbbc9, auth: a305ac08-d136-11ee-b6db-f23c91cfbbc9, sni: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com, skip-cert-verify: true}
+  - {name: "r♡ya@V2rayBaaz◇⃟💜 #5", server: 206.71.158.40, port: 35000, type: hysteria2, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, auth: b4bd0613-ff7c-4f2f-954d-185915e6ddad, sni: api.kermanshahi.org, skip-cert-verify: true, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: 🇸🇬 SG, server: sg3.oomz.ru, port: 30000, type: hysteria2, password: e7965e64-e001-4e8c-8273-39c61ff4a094, auth: e7965e64-e001-4e8c-8273-39c61ff4a094, sni: bing.com, skip-cert-verify: true}
   - {name: 🇨🇳 TW, server: tw.oomz.ru, port: 30000, type: hysteria2, password: e7965e64-e001-4e8c-8273-39c61ff4a094, auth: e7965e64-e001-4e8c-8273-39c61ff4a094, sni: bing.com, skip-cert-verify: true}
   - {name: telegram » mainv𝟮ray, server: 206.71.158.41, port: 35000, type: hysteria2, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, auth: b4bd0613-ff7c-4f2f-954d-185915e6ddad, sni: api.kermanshahi.org, skip-cert-verify: true, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
+  - {name: All³ | @AZARBAYJAB1, server: 206.71.158.41, port: 35000, type: hysteria2, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, auth: b4bd0613-ff7c-4f2f-954d-185915e6ddad, sni: jnir.pichondan.com, skip-cert-verify: true, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "telegram » mainv𝟮ray #1", server: 77.90.41.197, port: 35000, type: hysteria2, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, auth: b4bd0613-ff7c-4f2f-954d-185915e6ddad, sni: api.kermanshahi.org, skip-cert-verify: true, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
-  - {name: telegram » mainv𝟮ray¹, server: 72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com, port: 443, type: hysteria2, password: c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9, auth: c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9, sni: 72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com, skip-cert-verify: true}
   - {name: "tg频道:@ripaojiedian #1", server: 63.180.254.10, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇭🇰 香港|@ripaojiedian, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: 🇭🇰 香港3|@ripaojiedian, server: 58.152.110.210, port: 443, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇭🇰 香港5|@ripaojiedian, server: 18.179.118.202, port: 1867, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇯🇵 日本|@ripaojiedian, server: 13.158.129.83, port: 2595, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇯🇵 日本2|@ripaojiedian, server: 18.179.118.202, port: 1933, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 日本3|@ripaojiedian, server: 52.195.170.6, port: 1933, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡|@ripaojiedian, server: 160.16.70.180, port: 3901, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 美国|@ripaojiedian, server: 18.179.118.202, port: 5076, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇭🇰 香港4|@ripaojiedian, server: 95.40.75.51, port: 2266, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇭🇰 香港5|@ripaojiedian, server: 52.196.16.120, port: 2826, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇯🇵 日本|@ripaojiedian, server: 13.159.16.204, port: 3760, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇯🇵 日本2|@ripaojiedian, server: 153.121.39.240, port: 1933, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇯🇵 日本3|@ripaojiedian, server: 202.181.103.246, port: 3423, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡|@ripaojiedian, server: 160.16.63.16, port: 3901, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡2|@ripaojiedian, server: 160.16.196.59, port: 3076, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 美国|@ripaojiedian, server: 153.121.39.240, port: 491, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 美国2|@ripaojiedian, server: 153.121.39.240, port: 5076, type: trojan, password: 869e9086806483ca4744a4cb0f3d6e16, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇬🇧 英国|@ripaojiedian, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI}
   - {name: 🇭🇰 香港|@ripaojiedian 2, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: CN_speednode_0001, server: mofahx2.til69.com, port: 59009, type: trojan, password: 2f0e3d6c-87b2-49a6-8091-99373bf39ab5, sni: v1-dy.ixigua.com, skip-cert-verify: true}
   - {name: CN_speednode_0002, server: mofahx2.til69.com, port: 19797, type: trojan, password: 2f0e3d6c-87b2-49a6-8091-99373bf39ab5, sni: v1-dy.ixigua.com, skip-cert-verify: true}
