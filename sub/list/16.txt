@@ -1,1 +1,0 @@
-  - {name: 🏳️‍🌈 香港全网通无限流量, server: 8.217.111.56, port: 49463, type: vless, uuid: 8ea23af5-fe68-46a6-98fa-3c076922f03d, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: PpyKJweYWAS7uPM-sKbkpEKeld4ZM9R8aUHhrjmWMSU, short-id: bb2426}, servername: www.sony.com, client-fingerprint: chrome, network: tcp}
