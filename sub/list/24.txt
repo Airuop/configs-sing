@@ -1,11 +1,10 @@
-  - {name: 🇧🇷 巴西圣保罗 CloudFlare节点, server: 188.114.98.0, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-162191099.sharghdaily.co}}}
-  - {name: 🇮🇷 伊朗 V2CROSS.COM, server: freedom.vipgsmteam.info, port: 17356, type: vmess, uuid: f95cb5ae-1b06-4a57-aba0-30afe12d23ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇨🇳 广东省云浮市 移动, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: nhj.1jj.ccwu.cc, port: 443, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: nhj.1jj.ccwu.cc}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 172.67.211.136, port: 443, type: vmess, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: vvvbbnhj.191266.xyz, network: ws, ws-opts: {path: /, headers: {Host: vvvbbnhj.191266.xyz}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.26.15.137, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tr1-smart.adelping.com.}}}
-  - {name: 🇨🇳 广东省云浮市 移动 2, server: 183.232.137.2, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da}
-  - {name: 🇮🇷 伊朗 V2CROSS.COM 2, server: free-de-2.undef.network, port: 443, type: trojan, password: pYIoKUPGpWeTYXEx3HjR7s97B, sni: free-de-2.undef.network, skip-cert-verify: true}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: hhnm.7777128.xyz, port: 443, type: vmess, uuid: dd39bb7d-2bea-41b5-be20-fa228a45f639, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hhnm.7777128.xyz}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 172.64.155.209, port: 8443, type: vmess, uuid: 19e52bf4-1b7d-4bd4-ae66-6ca024436c17, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: frsys.fl-dl.com, network: ws, ws-opts: {path: /gbt}}
-  - {name: 🇨🇳 台湾省台中市 中华电信, server: green2.cdntencentmusic.com, port: 35502, type: trojan, password: 4250b3bb-d1ae-4e77-bf71-4069e0d2c383, sni: green2.cdntencentmusic.com, skip-cert-verify: true}
+  - {name: 🇨🇳 台湾省台中市 中华电信, server: 220.130.58.136, port: 35501, type: trojan, password: a1a00c82-5356-4a49-8944-1cd0f94168bb, sni: 220.130.58.136, skip-cert-verify: true}
+  - {name: 🇨🇳 广东省云浮市 移动, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da}
+  - {name: 🇨🇳 广东省云浮市 移动 2, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da}
+  - {name: 🇪🇸 西班牙 V2CROSS.COM, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: true}
+  - {name: 🇨🇳 甘肃省兰州市 移动, server: c.cdn-bilibili.cn, port: 10019, type: ss, cipher: chacha20-ietf-poly1305, password: 4475c5fb-c4d3-444c-8822-c2e32e1c272c}
+  - {name: 🇪🇸 西班牙 V2CROSS.COM 2, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: true}
+  - {name: 🇨🇳 广东省云浮市 移动 3, server: 183.232.137.2, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da}
+  - {name: 🇨🇳 台湾省台中市 中华电信 2, server: green2.cdntencentmusic.com, port: 31102, type: trojan, password: fdd6c2d0-2eaf-4e95-bfaa-432beb680ca9, sni: green2.cdntencentmusic.com, skip-cert-verify: true}
+  - {name: 🇨🇳 广东省云浮市 移动 4, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: c6d61cd1-d3dc-405e-afb2-d67815f4e4da}
+  - {name: 🇨🇳 台湾省台中市 中华电信 3, server: 220.130.58.136, port: 31103, type: trojan, password: 0a169d7d-a30f-4d90-af1b-55f6ef6afcb7, sni: green2.cdntencentmusic.com, skip-cert-verify: true}
