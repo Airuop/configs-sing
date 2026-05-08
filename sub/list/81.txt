@@ -1,4 +1,4 @@
-  - {name: LATEST-UPDATE 📅 Thu-07-May-2026 21:50, server: 127.0.0.1, port: 1080, type: trojan, password: bcacaab-baca-baca-dbac-accaabbcbacb, skip-cert-verify: true}
+  - {name: LATEST-UPDATE 📅 Fri-08-May-2026 22:40, server: 127.0.0.1, port: 1080, type: trojan, password: bcacaab-baca-baca-dbac-accaabbcbacb, skip-cert-verify: true}
   - {name: https://t.me/custom_14.-کانفینگ رایگان چنل ماhttps://t.me/custom_14, server: 65.109.241.111, port: 443, type: vless, uuid: 934943ff-bc93-4715-ed3c-c7b33cdedb40, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
   - {name: https://t.me/custom_14.-چنل ماhttps://t.me/custom_14, server: 65.109.241.111, port: 443, type: vless, uuid: 990f5f4d-5568-4e0a-96bf-2d86270d8fbf, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
   - {name: "@V2rayNG3", server: 65.109.231.154, port: 8880, type: vless, uuid: 32bcee33-6646-42d9-8067-9988e2a58647, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
@@ -82,9 +82,6 @@
   - {name: V2rayNG x | همه اپراتورها, server: 195.182.38.168, port: 17836, type: vmess, uuid: 6cbf4c64-f290-4d8d-ee63-fe73910bfa9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: "@FreakConfig 3", server: 57.129.25.22, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: o.metuji.com}}}
   - {name: "@FreakConfig 4", server: 57.129.25.22, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: o.metuji.com}}}
-  - {name: "@icv2ray", server: snapp.ir, port: 8880, type: vmess, uuid: 3cc739be-430a-44b5-99df-643b12007363, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: rxs.bravo-six.ir}}}
-  - {name: "@icv2ray 2", server: snapp.ir, port: 8880, type: vmess, uuid: 3cc739be-430a-44b5-99df-643b12007363, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: rxs.bravo-six.ir}}}
-  - {name: t.me/vasl_bashim, server: 185.236.38.44, port: 19946, type: vmess, uuid: c9e42537-8652-4a4c-85d3-0d36abf38f88, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: "@ConfigforVPN", server: best.configforvpn.fun, port: 8880, type: vmess, uuid: aa32efdd-dfb9-47fe-ac13-5b2cbc0dc215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: best.configforvpn.fun}}}
   - {name: "@ConfigforVPN 2", server: ips.configforvpn.fun, port: 8880, type: vmess, uuid: da28c85e-e71b-4554-a9fc-162bc94c7cb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: root.configforvpn.fun}}}
   - {name: "@configforVPN", server: join.melodyfreenet2.shop, port: 443, type: vmess, uuid: 50ef0b23-f14b-459f-97aa-d0f346189d2a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: Join.MelodyFeenEt2.shoP., network: ws, ws-opts: {path: /mail/, headers: {Host: join.melodyfreenet2.shop}}}
@@ -123,6 +120,7 @@
   - {name: "@v2rayng_org 2", server: 167.160.91.118, port: 10077, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com}
   - {name: "کانال : @V2rayNGvpni 2", server: series-a2-mec.samanehha.co, port: 443, type: ss, cipher: chacha20-poly1305, password: u17T3BvpYaaiuW2c}
   - {name: "کانال : @V2rayNGvpni 3", server: 52.142.161.9, port: 34424, type: ss, cipher: chacha20-ietf-poly1305, password: 64LbKHnB3IO759ueEnhgMG}
+  - {name: Tarkibi5 | @FreeLand8, server: xiaomandapple4certificate.ikco.ir.soserverbot.shop, port: 15152, type: ss, cipher: chacha20-ietf-poly1305, password: vxNw5diZYN3srq8uCfmQR98vYc39ect4}
   - {name: V 69 @Outline_Vpn, server: 94.131.123.86, port: 35361, type: ss, cipher: chacha20-ietf-poly1305, password: g0UgfsdXOhn8McpdHpWcmo}
   - {name: "@V2rayNG3 3", server: promo18v.bystrivpn.ru, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: dAHM1pm8ag7KdlrUylQi6t}
   - {name: "@V2rayNG3 4", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
@@ -178,26 +176,26 @@
   - {name: "@FreakConfig 63", server: bgp1.stimaysmhy8.com, port: 14011, type: trojan, password: 984c7793-1447-4af5-9200-d514ad6fe329, skip-cert-verify: true}
   - {name: "@FreakConfig 64", server: 172.64.152.23, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@FreakConfig 65", server: 172.64.152.23, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: (S103), server: 13.39.30.161, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S101), server: 18.185.147.254, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S103) 2, server: 35.181.209.187, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S104), server: 52.47.165.159, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S102), server: 18.192.237.68, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S103) 3, server: 15.188.230.176, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S101) 2, server: 3.123.178.214, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S103) 4, server: 35.180.106.124, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S104) 2, server: 51.45.11.214, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S102) 2, server: 3.66.80.118, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S103) 5, server: 35.180.145.201, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S101) 3, server: 63.182.185.223, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S103) 6, server: 13.36.216.227, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S104) 3, server: 15.224.9.226, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S102) 3, server: 3.123.135.227, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S103) 7, server: 15.224.94.238, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S101) 4, server: 63.184.179.58, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S103) 8, server: 52.47.129.227, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S104) 4, server: 15.224.29.207, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
-  - {name: (S102) 4, server: 52.59.183.236, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S101), server: 3.123.178.214, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S103), server: 35.180.106.124, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S104), server: 51.45.11.214, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S102), server: 3.66.80.118, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S103) 2, server: 35.180.145.201, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S101) 2, server: 63.182.185.223, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S103) 3, server: 13.36.216.227, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S104) 2, server: 15.224.9.226, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S102) 2, server: 3.123.135.227, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S103) 4, server: 15.224.94.238, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S101) 3, server: 63.184.179.58, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S103) 5, server: 52.47.129.227, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S104) 3, server: 15.224.29.207, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S102) 3, server: 52.59.183.236, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S103) 6, server: 15.224.87.132, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S101) 4, server: 3.123.242.100, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S103) 7, server: 13.37.76.238, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S104) 4, server: 15.236.112.206, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S102) 4, server: 3.79.92.53, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
+  - {name: (S103) 8, server: 15.188.208.223, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: true}
   - {name: "@V2rayNG3 10", server: 88.99.184.17, port: 40450, type: trojan, password: KBgnXadFmC, skip-cert-verify: true}
   - {name: "@V2rayNG3 11", server: 23.186.200.107, port: 11011, type: trojan, password: 898e1dca-14b2-4371-abc8-1b9f839bff6d, skip-cert-verify: true}
   - {name: "@V2rayNG3 12", server: 58.152.110.40, port: 443, type: trojan, password: ea39fa94f1ee00999337ea1fd3318e69, skip-cert-verify: true}
