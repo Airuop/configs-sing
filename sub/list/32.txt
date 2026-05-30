@@ -26,33 +26,31 @@
   - {name: 🇺🇸 VMESS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-cg1c01.waimaojd.com:443, server: cg1c01.waimaojd.com, port: 443, type: vmess, uuid: be8e3136-b874-4085-bd23-ec3699300490, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: cg1c01.waimaojd.com}}}
   - {name: 🇺🇸 VMESS-美国-ChatGPT-TikTok-YouTube-cg1c04.waimaojd.com:443, server: cg1c04.waimaojd.com, port: 443, type: vmess, uuid: be8e3136-b874-4085-bd23-ec3699300490, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: cg1c04.waimaojd.com}}}
   - {name: 🇺🇸 VMESS-美国-ChatGPT-TikTok-YouTube-cg1c14.waimaojd.com:443, server: cg1c14.waimaojd.com, port: 443, type: vmess, uuid: be8e3136-b874-4085-bd23-ec3699300490, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: cg1c14.waimaojd.com}}}
-  - {name: 亚太地区 V2CROSS.COM, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇨🇳 上海市 移动, server: yd2.ainivp.com, port: 33201, type: vmess, uuid: 9204afcd-026e-781f-1abc-c03efabd1344, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: yd2.ainivp.com}}}
+  - {name: 🇨🇳 台湾省 V2CROSS.COM, server: jpbgp.netvigor.cc, port: 19128, type: trojan, password: gcuCpQfaiVeDBdWG, sni: yazhou10.dynu.net, skip-cert-verify: true}
+  - {name: 🇺🇸 美国 V2CROSS.COM, server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4}
   - {name: 🇬🇧 英国 V2CROSS.COM, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇬🇧 英国 V2CROSS.COM 2, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇨🇳 湖南省郴州市 联通, server: cu7.ainivp.com, port: 33414, type: vmess, uuid: 9204afcd-026e-781f-1abc-c03efabd1344, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: cu7.ainivp.com}}}
-  - {name: 🇺🇸 美国 V2CROSS.COM, server: gtm-sg-cc54q7d1q01.365cloud0285.com, port: 6003, type: vmess, uuid: a030842a-d29a-4ea9-a776-14fc4b9e102d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇨🇳 台湾省台北市 中华电信, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.20.6.134, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, skip-cert-verify: true, network: ws, ws-opts: {path: "%2Fassignment", headers: {Host: www.calmloud.com}}}
   - {name: 🇭🇰 香港|@ripaojiedian, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇭🇰 香港3|@ripaojiedian, server: 52.69.114.14, port: 2008, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇭🇰 香港4|@ripaojiedian, server: 54.168.196.137, port: 4327, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇭🇰 香港3|@ripaojiedian, server: 18.166.208.219, port: 53018, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇭🇰 香港4|@ripaojiedian, server: 13.231.192.34, port: 50712, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
   - {name: 🇭🇰 香港5|@ripaojiedian, server: 18.162.145.230, port: 11233, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇯🇵 日本|@ripaojiedian, server: 13.231.225.85, port: 4099, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇯🇵 日本2|@ripaojiedian, server: 16.163.29.124, port: 8066, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 日本3|@ripaojiedian, server: 16.163.29.124, port: 11541, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡|@ripaojiedian, server: 95.40.114.115, port: 4840, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡2|@ripaojiedian, server: 16.163.29.124, port: 3842, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡3|@ripaojiedian, server: 35.78.121.219, port: 39756, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇺🇸 美国|@ripaojiedian, server: 95.40.114.115, port: 2663, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 美国2|@ripaojiedian, server: 52.69.114.14, port: 2663, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 美国3|@ripaojiedian, server: 43.206.155.159, port: 2702, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇯🇵 日本|@ripaojiedian, server: 13.231.192.34, port: 53307, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇯🇵 日本2|@ripaojiedian, server: 18.163.128.27, port: 24184, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇯🇵 日本3|@ripaojiedian, server: 18.163.128.27, port: 3135, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡|@ripaojiedian, server: 18.163.128.27, port: 4840, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡2|@ripaojiedian, server: 54.238.76.39, port: 4840, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡3|@ripaojiedian, server: 18.166.59.84, port: 7484, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
+  - {name: 🇺🇸 美国|@ripaojiedian, server: 18.163.128.27, port: 2663, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 美国2|@ripaojiedian, server: 54.238.76.39, port: 6604, type: trojan, password: f6d3aa07a52dbcedcb4731029e2fb6ae, sni: www.nintendogames.net, skip-cert-verify: true}
+  - {name: 🇺🇸 美国3|@ripaojiedian, server: 43.199.229.84, port: 17801, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
   - {name: 🇺🇸 美国4|@ripaojiedian, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: 🇺🇸 美国5|@ripaojiedian, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇬🇧 英国 starcorenode.com 2, server: 82.198.246.214, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 亚太地区 starcorenode.com, server: planb.mojcn.com, port: 16648, type: vmess, uuid: 24e37e6e-7e01-4f68-afea-28fb14a47aef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 08071ec6f38bfb263ee89b1bb0c3ca1b.mobgslb.tbcache.com}}}
-  - {name: 🇺🇸 美国 starcorenode.com 2, server: 149.104.109.74, port: 21273, type: ss, cipher: chacha20-ietf-poly1305, password: Ll6cYfXM5DzQbdtMMb72A_jqVnNljU3yqe}
-  - {name: 🇨🇳 台湾省 starcorenode.com, server: 211.76.176.98, port: 19128, type: trojan, password: gcuCpQfaiVeDBdWG, sni: yazhou10.dynu.net, skip-cert-verify: true}
-  - {name: 🇬🇧 英国 starcorenode.com 4, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇺🇸 美国 starcorenode.com 3, server: gtm-sg-cc54q7d1q01.365cloud0285.com, port: 6003, type: vmess, uuid: a030842a-d29a-4ea9-a776-14fc4b9e102d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇬🇧 英国 starcorenode.com, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.20.6.134, port: 443, type: trojan, password: humanity, sni: www.calmloud.com, skip-cert-verify: true, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.calmloud.com}}}
+  - {name: 🇨🇳 台湾省台北市 中华电信 2, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4}
+  - {name: 亚太地区 starcorenode.com, server: 103.181.164.145, port: 51556, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇬🇧 英国 starcorenode.com 2, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: _CN_中国, server: mofacpdd.til69.com, port: 41921, type: ss, cipher: chacha20-ietf-poly1305, password: 5d68d91f-ccc5-4c00-b1f6-0d764937f4f6}
   - {name: 🇺🇸 _US_美国, server: 216.24.57.250, port: 443, type: trojan, password: 5027e2a4-c4d2-463a-9508-83a2c7d1ad83, sni: afrcloud1.mmv.kr, skip-cert-verify: true, network: ws, ws-opts: {path: "%2F5.223.47.32%3D443", headers: {Host: afrcloud1.mmv.kr}}}
   - {name: isx.yt-01, server: v2us01.isxa.top, port: 443, type: vmess, uuid: 00000000-0000-0000-0000-000000000000, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: v2us01.isxa.top}}}
