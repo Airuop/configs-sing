@@ -1,4 +1,4 @@
-  - {name: LATEST-UPDATE 📅 Wed-22-Jul-2026 22:35, server: 127.0.0.1, port: 1080, type: trojan, password: bcacaab-baca-baca-dbac-accaabbcbacb, skip-cert-verify: true}
+  - {name: LATEST-UPDATE 📅 Thu-23-Jul-2026 22:36, server: 127.0.0.1, port: 1080, type: trojan, password: bcacaab-baca-baca-dbac-accaabbcbacb, skip-cert-verify: true}
   - {name: 87.120.106.52:8081, server: 87.120.106.52, port: 8081, type: vless, uuid: 449b7dd6-6ad2-4ce6-b4aa-6c7060e143fb, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
   - {name: 347Mb | Aeza Group, server: 62.60.159.137, port: 50443, type: vless, uuid: ab51054f-de76-4a0f-9f3a-b44c8df86a6c, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
   - {name: https://t.me/custom_14.-کانفینگ رایگان چنل ماhttps://t.me/custom_14, server: 65.109.241.111, port: 443, type: vless, uuid: 934943ff-bc93-4715-ed3c-c7b33cdedb40, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
@@ -77,8 +77,6 @@
   - {name: 🇺🇸 美国104 | ⬇️ 3.3MB/s, server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: 5428dcc2-9950-4404-b8a5-9dac82acb210, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cloudgetservice.mcloudservice.site, network: ws, ws-opts: {path: /linkws, headers: {Host: maXNEtVIP-usA-VP3.nETKH3.SiTE}}}
   - {name: "@iranvpnet", server: mute-math-d64e.0e503992ad7026.WOrKERs.deV, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: mute-math-d64e.0e503992ad7026.woRKERS.DeV, network: ws, ws-opts: {path: /aveiror.com:443/linkvws, headers: {Host: mute-math-d64e.0e503992ad7026.woRKERS.DeV}}}
   - {name: "@iranvpnet 2", server: mute-math-d64e.0e503992ad7026.WOrKERs.deV, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: mute-math-d64e.0e503992ad7026.woRKERS.DeV, network: ws, ws-opts: {path: /aveiror.com:443/linkvws, headers: {Host: mute-math-d64e.0e503992ad7026.woRKERS.DeV}}}
-  - {name: "[🇨🇦]ConfigV2RayNG", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}}
-  - {name: ☄️ @ConfigV2RayNG, server: www.nextkyc.com, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}}
   - {name: ⚡️ @ViPVpn_v2ray, server: web.miladvip.shop, port: 16537, type: vmess, uuid: dcb21130-880f-4c76-84c8-5aa176d8fdb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: ⚡️ @ViPVpn_v2ray 2, server: web.miladvip.shop, port: 80, type: vmess, uuid: 37455760-e99d-4b14-d6b2-c0c3f040081b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: ⚡️ @ViPVpn_v2ray 3, server: web.miladvip.shop, port: 8080, type: vmess, uuid: 1b0fda80-506d-4e1f-eb5f-583994d47d46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
@@ -109,9 +107,8 @@
   - {name: "@v2rayng_org 2", server: 167.160.91.118, port: 10077, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com}
   - {name: "کانال : @V2rayNGvpni 2", server: series-a2-mec.samanehha.co, port: 443, type: ss, cipher: chacha20-poly1305, password: u17T3BvpYaaiuW2c}
   - {name: "کانال : @V2rayNGvpni 3", server: 52.142.161.9, port: 34424, type: ss, cipher: chacha20-ietf-poly1305, password: 64LbKHnB3IO759ueEnhgMG}
-  - {name: "@FreeLand8🔹کانفیگ‌های بیشتر", server: 20.166.58.64, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 217Fg9zpgpVS4DGE}
-  - {name: "@FreeLand8🔹کانال تلگرام ما", server: 82.38.31.195, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
   - {name: "@FreeLand8", server: 82.38.31.200, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: "@FreeLand8 2", server: 192.248.180.96, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: LXMsoygg8tcTSYSbTr6ttA}
   - {name: $Free 415 @Outline_Vpn, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
   - {name: Mi168 X @Outline_Vpn, server: 82.38.31.32, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
   - {name: Mi168 T @Outline_Vpn, server: 194.187.249.218, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA}
@@ -125,13 +122,13 @@
   - {name: "@v2rayng3 11", server: 20.164.221.1, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: dhUfc0noSQDTLOAR}
   - {name: "@v2rayng3 12", server: 51.75.168.50, port: 26179, type: ss, cipher: chacha20-ietf-poly1305, password: 78b6e93e54225803}
   - {name: "@v2rayng3 13", server: 49.13.3.249, port: 23997, type: ss, cipher: 2022-blake3-aes-256-gcm, password: dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=}
-  - {name: "@v2rayng3 14", server: e1.cover20.ir, port: 51570, type: ss, cipher: chacha20-ietf-poly1305, password: gd0No13fvP6PX3P7TyOIjnRrn1FwWPkMCjMSwOEf6PI=}
-  - {name: "@v2rayng3 15", server: e4.cover20.ir, port: 16156, type: ss, cipher: chacha20-ietf-poly1305, password: jVPjyNGgOAfv4b4e8dUK693et27aKkLJp1TxTRUIgHs=}
-  - {name: "@v2rayng3 16", server: 82.38.31.198, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
-  - {name: "@v2rayng3 17", server: 82.38.31.32, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: "@v2rayng3 18", server: 128.251.12.23, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u7MBhnD1kM8GhweY}
-  - {name: "@v2rayng3 19", server: 217.138.207.106, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA}
-  - {name: "@v2rayng3 20", server: 37.120.139.234, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA}
+  - {name: ss, server: e1.cover20.ir, port: 51570, type: ss, cipher: chacha20-ietf-poly1305, password: CUEYgBIv3UinEYcB/Ha5Jf792AEjyNwnGu0hIKK+o5Q=}
+  - {name: "@v2rayng3 14", server: e4.cover20.ir, port: 16156, type: ss, cipher: chacha20-ietf-poly1305, password: jVPjyNGgOAfv4b4e8dUK693et27aKkLJp1TxTRUIgHs=}
+  - {name: "@v2rayng3 15", server: 82.38.31.198, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: "@v2rayng3 16", server: 82.38.31.32, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: "@v2rayng3 17", server: 128.251.12.23, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u7MBhnD1kM8GhweY}
+  - {name: "@v2rayng3 18", server: 217.138.207.106, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA}
+  - {name: "@v2rayng3 19", server: 37.120.139.234, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA}
   - {name: https://t.me/ShadowsocksM 8, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
   - {name: "@Easy_Free_VPN", server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
   - {name: "@FreakConfig 10", server: 89.22.234.121, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: CxtcZaOSFYiJnloyTZJ0z2}
@@ -140,11 +137,48 @@
   - {name: 🇩🇪 Germany 0VH, server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl}
   - {name: 🇳🇱 Netherlands Greenhost, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
   - {name: 5, server: 85.239.239.182, port: 16309, type: ss, cipher: chacha20-ietf-poly1305, password: c3462d3f6020528d}
-  - {name: "[🇮🇪]t.me/ConfigV2RayNG", server: 52.236.93.73, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9g5FMKiBS7Lw1ooW}
-  - {name: "[🏁]t.me/ConfigV2RayNG", server: 82.38.31.174, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: "[🇫🇮]t.me/ConfigV2RayNG", server: 0721-syah.kovira2.ir, port: 25026, type: ss, cipher: chacha20-ietf-poly1305, password: r2v53aul8lsaweki}
-  - {name: "[🇮🇪]t.me/ConfigV2RayNG 2", server: 20.166.58.64, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 217Fg9zpgpVS4DGE}
-  - {name: "[🇴🇳]t.me/ConfigV2RayNG", server: 8.210.171.48, port: 443, type: ss, cipher: aes-256-gcm, password: a172cf0d-ae89-42f3-8505-0c51dae293a1}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_49, server: 82.38.31.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_252, server: 82.38.31.183, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_52, server: 82.38.31.11, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_126, server: 82.38.31.185, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_247, server: 82.38.31.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: "[🇮🇪]t.me/ConfigV2RayNG", server: 20.107.197.108, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: dNJkXSaaUL3JWz4b}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_121, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_124, server: 82.38.31.211, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_135, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_246, server: 82.38.31.26, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_130, server: 82.38.31.18, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_139, server: 82.38.31.195, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_55, server: 82.38.31.212, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_61, server: 82.38.31.216, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_117, server: 82.38.31.219, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_168, server: 82.38.31.182, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_251, server: 82.38.31.213, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_50, server: 82.38.31.207, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_253, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_118, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_116, server: 82.38.31.193, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_54, server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_245, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_125, server: 82.38.31.7, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_122, server: 82.38.31.198, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_249, server: 82.38.31.16, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_58, server: 82.38.31.180, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇫🇷 France_🇫🇷_@ConfigV2RayNG_FR_132, server: 137.74.119.18, port: 10443, type: ss, cipher: chacha20-ietf-poly1305, password: diOMBU5IDvJcFqyNPbRjYR}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_120, server: 82.38.31.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_115, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_129, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_119, server: 82.38.31.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_241, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_57, server: 82.38.31.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_215, server: 82.38.31.57, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_244, server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇰🇷 South Korea_🇰🇷_@ConfigV2RayNG_KR_257, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_248, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_114, server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_243, server: 82.38.31.200, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: 🇬🇧 United Kingdom_🇬🇧_@ConfigV2RayNG_GB_141, server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ}
+  - {name: "[🏁]t.me/ConfigV2RayNG", server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: "@FreakConfig 11", server: 212.192.13.214, port: 30129, type: ss, cipher: aes-256-gcm, password: 7e1dd4c55bf85da5}
   - {name: "@FreakConfig 12", server: 20.164.216.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Y1YSWNVWfufolplK}
   - {name: "@FreakConfig 13", server: 20.164.216.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Y1YSWNVWfufolplK}
@@ -179,21 +213,15 @@
   - {name: "@FreakConfig 36", server: 151.101.110.219, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
   - {name: "@FreakConfig 37", server: 151.101.56.6, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
   - {name: "@FreakConfig 38", server: 151.101.56.6, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 39", server: 199.232.22.39, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 40", server: mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir, port: 42351, type: trojan, password: --------------BanV2ray-----------, skip-cert-verify: true}
-  - {name: "@FreakConfig 41", server: oooooooooooooooo-00000000000000000.poki-pakipon.ir, port: 4713, type: trojan, password: ---------------BanV2ray-------------, skip-cert-verify: true}
-  - {name: "@FreakConfig 42", server: 199.232.222.178, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 43", server: 151.101.56.7, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 44", server: 199.232.78.140, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 45", server: 151.101.1.194, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 46", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 47", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 48", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 39", server: 89.39.70.159, port: 443, type: trojan, password: XG59623478, skip-cert-verify: true}
+  - {name: "@FreakConfig 40", server: 35.181.65.111, port: 443, type: trojan, password: NQ26071394, skip-cert-verify: true}
+  - {name: "@FreakConfig 41", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 42", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 43", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: Elena4, server: 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, port: 30000, type: trojan, password: -----------%42%61%6e%56%32%72%61%79------------, skip-cert-verify: true}
   - {name: Elena3, server: 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, port: 52727, type: trojan, password: -----------%42%61%6e%56%32%72%61%79------------, skip-cert-verify: true}
   - {name: Elena2, server: 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, port: 26657, type: trojan, password: -----------%42%61%6e%56%32%72%61%79------------, skip-cert-verify: true}
   - {name: Elena1, server: 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, port: 27111, type: trojan, password: -----------%42%61%6e%56%32%72%61%79------------, skip-cert-verify: true}
-  - {name: "@FreeLand8🔹کانفیگ‌های بیشتر 2", server: 185.18.250.252, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: $Free 394 @Outline_Vpn, server: 45.130.125.2, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: $Free 402 @Outline_Vpn, server: 141.193.213.21, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: $Free 412 @Outline_Vpn, server: 104.16.72.41, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
@@ -207,139 +235,135 @@
   - {name: Free 107 @Outline_Vpn, server: 89.39.70.233, port: 443, type: trojan, password: KV63147582, skip-cert-verify: true}
   - {name: Free 114 @Outline_Vpn, server: 63.178.193.196, port: 443, type: trojan, password: NQ26071394, skip-cert-verify: true}
   - {name: Free 118 @Outline_Vpn, server: 89.39.70.143, port: 443, type: trojan, password: NQ26071394, skip-cert-verify: true}
-  - {name: "@v2rayng3 21", server: 85.198.11.172, port: 40443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 22", server: 2.144.22.10, port: 40443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: Free 124 @Outline_Vpn, server: 89.39.70.85, port: 443, type: trojan, password: NQ26071394, skip-cert-verify: true}
+  - {name: "@v2rayng3 20", server: 85.198.11.172, port: 40443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@v2rayng3 21", server: 2.144.22.10, port: 40443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: v2rayng3, server: 104.16.7.70, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, skip-cert-verify: true}
   - {name: v2rayng3 2, server: 146.103.114.206, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, skip-cert-verify: true}
   - {name: v2rayng3 3, server: 104.21.7.21, port: 2096, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, skip-cert-verify: true}
+  - {name: "@v2rayng3 22", server: 165.215.250.14, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@v2rayng3 23", server: 165.215.250.14, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 24", server: 165.215.250.14, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 25", server: 45.130.125.160, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 26", server: 104.17.121.71, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 27", server: 185.18.250.252, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@v2rayng3 24", server: 45.130.125.160, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@v2rayng3 25", server: 104.17.121.71, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@v2rayng3 26", server: 185.18.250.252, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@v2rayng3 27", server: 104.19.229.21, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@v2rayng3 28", server: 104.19.229.21, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@v2rayng3 29", server: 104.19.229.21, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@v2rayng3 30", server: 104.19.229.21, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@v2rayng3 31", server: 104.19.229.21, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@v2rayng3 32", server: 104.19.229.21, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@v2rayng3 33", server: 104.19.229.21, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 34", server: 104.19.229.21, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 35", server: 45.130.125.126, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@v2rayng3 34", server: 45.130.125.126, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@v2rayng3 35", server: 165.215.250.14, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@v2rayng3 36", server: 165.215.250.14, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 37", server: 165.215.250.14, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 38", server: 202.37.33.80, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 39", server: 45.130.125.112, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@v2rayng3 37", server: 202.37.33.80, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@v2rayng3 38", server: 45.130.125.112, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@V2rayng3", server: 185.137.157.145, port: 443, type: trojan, password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q, skip-cert-verify: true}
   - {name: "@V2rayng3 2", server: 45.130.125.112, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@V2rayng3 3", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@v2rayng3 40", server: 185.137.157.138, port: 443, type: trojan, password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 9, server: 151.101.34.144, port: 443, type: trojan, password: 4aFbwy5BHa, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 10, server: excited-squirrel.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: excited-squirrel.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 11, server: tolerant-stag.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: tolerant-stag.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 12, server: allowing-halibut.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: allowing-halibut.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 13, server: upward-yak.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: upward-yak.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 14, server: aware-puma.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: aware-puma.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 15, server: climbing-frog.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: climbing-frog.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 16, server: together-impala.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: together-impala.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 17, server: charming-puma.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: charming-puma.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 18, server: openai.com, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 19, server: eternal-horse.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: eternal-horse.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 20, server: allowing-halibut.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: allowing-halibut.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 21, server: excited-squirrel.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: excited-squirrel.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 22, server: star-bluejay.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: star-bluejay.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 23, server: equipped-moth.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: equipped-moth.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 24, server: diverse-thrush.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: diverse-thrush.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 25, server: awake-satyr.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: awake-satyr.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 26, server: logical-koala.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: logical-koala.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 27, server: together-impala.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: together-impala.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 28, server: devoted-zebra.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: devoted-zebra.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 29, server: tolerant-stag.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: tolerant-stag.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 30, server: enormous-whippet.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: enormous-whippet.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 31, server: aware-puma.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: aware-puma.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 32, server: smooth-lark.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: smooth-lark.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 33, server: charming-puma.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: charming-puma.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 34, server: upward-yak.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: upward-yak.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 35, server: climbing-frog.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: climbing-frog.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 36, server: saved-tuna.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: saved-tuna.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 37, server: growing-ram.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: growing-ram.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 38, server: star-dodo.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: star-dodo.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 39, server: clear-heron.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: clear-heron.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 40, server: 52.194.192.245, port: 443, type: trojan, password: PI36027154, sni: exciting-grizzly.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 41, server: eminent-dogfish.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: eminent-dogfish.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 42, server: immune-mullet.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: immune-mullet.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 43, server: smashing-fawn.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: smashing-fawn.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 44, server: funny-hawk.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: funny-hawk.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 45, server: shining-piranha.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: shining-piranha.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 46, server: welcome-monitor.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: welcome-monitor.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 47, server: live-drake.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: live-drake.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 48, server: accurate-frog.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: accurate-frog.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 49, server: composed-sheep.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: composed-sheep.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 50, server: communal-sunbird.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: communal-sunbird.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 51, server: adapting-basilisk.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: adapting-basilisk.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 52, server: 162.159.153.1, port: 443, type: trojan, password: tg-dns68, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 53, server: smooth-hornet.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: smooth-hornet.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 54, server: star-moray.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: star-moray.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 55, server: alert-fish.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: alert-fish.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 56, server: 162.159.153.8, port: 443, type: trojan, password: tg-dns68, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 57, server: fair-werewolf.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: fair-werewolf.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 58, server: loyal-molly.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: loyal-molly.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 59, server: darling-mongrel.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: darling-mongrel.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 60, server: funny-hen.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: funny-hen.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 61, server: definite-ladybird.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: definite-ladybird.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 62, server: in-oriole.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: in-oriole.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 63, server: sacred-shepherd.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: sacred-shepherd.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 64, server: steady-prawn.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: steady-prawn.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 65, server: nearby-egret.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: nearby-egret.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 66, server: sincere-crappie.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: sincere-crappie.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 67, server: moved-bluegill.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: moved-bluegill.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 68, server: eternal-woodcock.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: eternal-woodcock.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 69, server: thankful-mustang.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: thankful-mustang.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 70, server: star-cheetah.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: star-cheetah.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 71, server: united-molly.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: united-molly.rooster465.autos, skip-cert-verify: true}
-  - {name: https://t.me/ShadowsocksM 72, server: skilled-lioness.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: skilled-lioness.rooster465.autos, skip-cert-verify: true}
+  - {name: "@v2rayng3 39", server: 185.137.157.138, port: 443, type: trojan, password: dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 9, server: excited-squirrel.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: excited-squirrel.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 10, server: tolerant-stag.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: tolerant-stag.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 11, server: allowing-halibut.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: allowing-halibut.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 12, server: upward-yak.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: upward-yak.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 13, server: aware-puma.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: aware-puma.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 14, server: climbing-frog.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: climbing-frog.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 15, server: together-impala.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: together-impala.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 16, server: charming-puma.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: charming-puma.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 17, server: openai.com, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 18, server: eternal-horse.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: eternal-horse.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 19, server: allowing-halibut.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: allowing-halibut.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 20, server: excited-squirrel.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: excited-squirrel.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 21, server: star-bluejay.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: star-bluejay.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 22, server: equipped-moth.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: equipped-moth.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 23, server: diverse-thrush.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: diverse-thrush.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 24, server: awake-satyr.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: awake-satyr.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 25, server: logical-koala.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: logical-koala.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 26, server: together-impala.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: together-impala.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 27, server: devoted-zebra.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: devoted-zebra.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 28, server: tolerant-stag.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: tolerant-stag.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 29, server: enormous-whippet.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: enormous-whippet.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 30, server: aware-puma.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: aware-puma.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 31, server: smooth-lark.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: smooth-lark.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 32, server: charming-puma.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: charming-puma.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 33, server: upward-yak.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: upward-yak.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 34, server: climbing-frog.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: climbing-frog.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 35, server: saved-tuna.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: saved-tuna.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 36, server: growing-ram.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: growing-ram.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 37, server: star-dodo.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: star-dodo.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 38, server: clear-heron.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: clear-heron.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 39, server: 52.194.192.245, port: 443, type: trojan, password: PI36027154, sni: exciting-grizzly.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 40, server: eminent-dogfish.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: eminent-dogfish.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 41, server: immune-mullet.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: immune-mullet.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 42, server: smashing-fawn.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: smashing-fawn.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 43, server: funny-hawk.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: funny-hawk.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 44, server: shining-piranha.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: shining-piranha.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 45, server: welcome-monitor.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: welcome-monitor.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 46, server: live-drake.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: live-drake.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 47, server: accurate-frog.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: accurate-frog.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 48, server: composed-sheep.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: composed-sheep.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 49, server: communal-sunbird.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: communal-sunbird.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 50, server: adapting-basilisk.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: adapting-basilisk.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 51, server: 162.159.153.1, port: 443, type: trojan, password: tg-dns68, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 52, server: smooth-hornet.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: smooth-hornet.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 53, server: star-moray.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: star-moray.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 54, server: alert-fish.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: alert-fish.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 55, server: 162.159.153.8, port: 443, type: trojan, password: tg-dns68, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 56, server: fair-werewolf.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: fair-werewolf.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 57, server: loyal-molly.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: loyal-molly.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 58, server: darling-mongrel.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: darling-mongrel.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 59, server: funny-hen.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: funny-hen.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 60, server: definite-ladybird.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: definite-ladybird.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 61, server: in-oriole.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: in-oriole.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 62, server: sacred-shepherd.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: sacred-shepherd.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 63, server: steady-prawn.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: steady-prawn.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 64, server: nearby-egret.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: nearby-egret.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 65, server: sincere-crappie.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: sincere-crappie.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 66, server: moved-bluegill.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: moved-bluegill.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 67, server: eternal-woodcock.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: eternal-woodcock.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 68, server: thankful-mustang.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: thankful-mustang.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 69, server: star-cheetah.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: star-cheetah.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 70, server: united-molly.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: united-molly.rooster465.autos, skip-cert-verify: true}
+  - {name: https://t.me/ShadowsocksM 71, server: skilled-lioness.rooster465.autos, port: 443, type: trojan, password: CF68213490, sni: skilled-lioness.rooster465.autos, skip-cert-verify: true}
   - {name: (@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪, server: 104.18.152.246, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: 🇯🇵 Japan Klayer LLC, server: kuame.missionsec.us, port: 443, type: trojan, password: FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D, skip-cert-verify: true}
   - {name: 🇭🇰 Hong Kong Netvigator, server: 219.79.214.159, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true}
   - {name: 🇯🇵 Japan NTT Pc, server: 160.16.107.37, port: 3169, type: trojan, password: 44e660b0ee21cf3ac66aee2c08af85d2, skip-cert-verify: true}
   - {name: United State Nato, server: 23.247.137.64, port: 443, type: trojan, password: 3c4e10af98c30972, skip-cert-verify: true}
+  - {name: ♨️ConfigV2RayNG, server: 18.196.207.79, port: 443, type: trojan, password: ON38567014, skip-cert-verify: true}
+  - {name: ♨️ConfigV2RayNG 2, server: 89.39.70.159, port: 443, type: trojan, password: XG59623478, skip-cert-verify: true}
+  - {name: "[🇨🇦]t.me/ConfigV2RayNG", server: 172.64.152.23, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "[🇨🇦]t.me/ConfigV2RayNG 2", server: www.ignitelimit.com, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "[🇪🇸]t.me/ConfigV2RayNG", server: 185.18.250.252, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@ConfigV2RayNG", server: 185.18.250.252, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "[🏁]t.me/ConfigV2RayNG 2", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: ConfigV2RayNG, server: 172.64.144.251, port: 2083, type: trojan, password: Mehdi1234, skip-cert-verify: true}
-  - {name: ⚙️ @ConfigV2RayNG, server: 188.114.97.7, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@ConfigV2RayNG", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@ConfigV2RayNG 2", server: 188.114.97.6, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
+  - {name: "@ConfigV2RayNG 2", server: 104.16.72.41, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "[🏁]t.me/ConfigV2RayNG 3", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: ⚙️ @ConfigV2RayN, server: 104.16.72.50, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: "@ConfigV2RayNG 3", server: 151.101.1.194, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@ConfigV2RayNG 4", server: 119.246.1.143, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true}
+  - {name: 3♨️@ConfigV2RayNG, server: 44.243.31.46, port: 443, type: trojan, password: NQ26071394, skip-cert-verify: true}
+  - {name: "@FreakConfig 44", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 45", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 46", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 47", server: ifo.configfast.site, port: 58900, type: trojan, password: 6a2657e5dbaabb6, skip-cert-verify: true}
+  - {name: "@FreakConfig 48", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "@FreakConfig 49", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 50", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 51", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 52", server: ifo.configfast.site, port: 58900, type: trojan, password: 6a2657e5dbaabb6, skip-cert-verify: true}
-  - {name: "@FreakConfig 53", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 54", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 55", server: 162.159.38.200, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 56", server: 162.159.8.101, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 57", server: 104.21.55.230, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 58", server: 162.159.38.200, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 59", server: 104.21.55.230, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 60", server: 162.159.8.101, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 61", server: 172.67.180.92, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 62", server: 188.114.98.0, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 63", server: 172.64.152.23, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 64", server: 104.21.40.34, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 65", server: 104.18.32.47, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 66", server: 151.101.110.219, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 67", server: 151.101.110.219, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 68", server: 151.101.56.6, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 69", server: 151.101.56.6, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 70", server: 199.232.22.39, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 71", server: mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir, port: 42351, type: trojan, password: --------------BanV2ray-----------, skip-cert-verify: true}
-  - {name: "@FreakConfig 72", server: oooooooooooooooo-00000000000000000.poki-pakipon.ir, port: 4713, type: trojan, password: ---------------BanV2ray-------------, skip-cert-verify: true}
-  - {name: "@FreakConfig 73", server: 199.232.222.178, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 74", server: 151.101.56.7, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 75", server: 199.232.78.140, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 76", server: 151.101.1.194, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
-  - {name: "@FreakConfig 77", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 78", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
-  - {name: "@FreakConfig 79", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 50", server: 162.159.38.200, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 51", server: 162.159.8.101, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 52", server: 104.21.55.230, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 53", server: 162.159.38.200, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 54", server: 104.21.55.230, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 55", server: 162.159.8.101, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 56", server: 172.67.180.92, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 57", server: 188.114.98.0, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 58", server: 172.64.152.23, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 59", server: 104.21.40.34, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 60", server: 104.18.32.47, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 61", server: 151.101.110.219, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 62", server: 151.101.110.219, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 63", server: 151.101.56.6, port: 443, type: trojan, password: MITIVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 64", server: 151.101.56.6, port: 443, type: trojan, password: MiTiVPN, skip-cert-verify: true}
+  - {name: "@FreakConfig 65", server: 89.39.70.159, port: 443, type: trojan, password: XG59623478, skip-cert-verify: true}
+  - {name: "@FreakConfig 66", server: 35.181.65.111, port: 443, type: trojan, password: NQ26071394, skip-cert-verify: true}
+  - {name: "@FreakConfig 67", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 68", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
+  - {name: "@FreakConfig 69", server: 162.159.38.119, port: 443, type: trojan, password: humanity, skip-cert-verify: true}
   - {name: "©Made by: github.com/MhdiTaheri 📌", server: 127.0.0.1, port: 8080, type: trojan, password: bcacaab-baca-baca-dbac-accaabbcbacb, skip-cert-verify: true}
