@@ -1,21 +1,23 @@
-  - {name: 🇲🇾 _MY_马来西亚, server: 118.107.222.231, port: 65443, type: ss, cipher: aes-256-cfb, password: 7eadc6dbe2ae}
-  - {name: 🇳🇱 _NL_荷兰, server: 51.158.236.122, port: 8080, type: vless, uuid: 11af1c47-865a-47c6-92ff-118013655d78, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇭🇰 _HK_中国香港, server: 156.226.183.181, port: 54321, type: vmess, uuid: d3bcc1f1-6294-4f68-bcf3-c3bcb2001520, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇩🇪 _DE_德国, server: 163.8.195.241, port: 2087, type: vless, uuid: 56ba5d34-ef22-4ba6-8090-4188b807df54, tls: false, tfo: false, skip-cert-verify: true, client-fingerprint: chrome, network: ws, ws-opts: {path: /29c8fed7ca22}}
-  - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国, server: 121.46.230.233, port: 65443, type: ss, cipher: aes-256-cfb, password: 7eadc6dbe2ae}
-  - {name: 🇭🇰 _HK_中国香港_1, server: v33.hdacd.com, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: none, tls: false, skip-cert-verify: true}
-  - {name: 🇩🇪 _RU_俄罗斯->🇩🇪_DE_德国, server: rrr.windconnect.pro, port: 443, type: vless, uuid: af00e0c4-decf-48f2-9013-56abe9c9efcd, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30, short-id: 4da5d1853f04af6d}, servername: rrr.windconnect.pro, client-fingerprint: firefox, network: tcp}
-  - {name: 🇭🇰 _HK_中国香港_2, server: v10.zgtfqs.click, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: none, tls: false, skip-cert-verify: true}
-  - {name: 🇩🇪 _DE_德国_1, server: 5.83.129.153, port: 20088, type: hysteria, auth_str: dongtaiwang.com, auth-str: dongtaiwang.com, up: 500, down: 1000, fast-open: false, protocol: none, sni: apple.com, skip-cert-verify: true, alpn: [h3]}
-  - {name: 🇳🇱 _PL_波兰->🇳🇱_NL_荷兰, server: 178.95.170.83, port: 2087, type: vless, uuid: bf443e4a-aa9e-4509-abf0-d0f6828d57be, tls: false, tfo: false, skip-cert-verify: true, client-fingerprint: chrome, network: ws, ws-opts: {path: /4bc027a44532}}
-  - {name: 🇨🇦 _CA_加拿大, server: 35.182.118.89, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇫🇷 _FR_法国, server: 95.170.13.47, port: 65443, type: ss, cipher: aes-256-cfb, password: 7eadc6dbe2ae}
-  - {name: 🇩🇪 _DE_德国_2, server: 176.96.138.122, port: 443, type: vless, uuid: b229d38c-35ec-4a0b-9c86-8fceba243d6c, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: O_YZOJVON0LE1U01hAtNUOVRy7z6fkBUXbMtpCGoGEg}, servername: plucky-xenon.cdn.cachefleet.com, client-fingerprint: qq, network: tcp}
-  - {name: 🇭🇰 _HK_中国香港->🇬🇧_GB_英国, server: v36.hdacd.com, port: 30836, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国_1, server: jp.sofast.live, port: 52683, type: vless, uuid: 399b6b23-cc40-4831-a494-61948e2df133, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
-  - {name: _CN_中国, server: 112.132.215.108, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇬🇧 _GB_英国, server: viper-21.moriarty-web.com, port: 443, type: vless, uuid: cd3bb7d9-7df3-4644-ac05-c260990ac277, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, servername: viper-21.moriarty-web.com, client-fingerprint: firefox, network: tcp}
+  - {name: 🇭🇰 _HK_中国香港->🇩🇪_DE_德国, server: v33.hdacd.com, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: _CN_中国, server: us22.sofast.live, port: 58011, type: vless, uuid: 0afc6426-606c-48e7-bd70-3c424a416842, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: 🇬🇧 _GB_英国_1, server: 35.178.200.252, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇵🇱 _PL_波兰, server: 50.7.249.178, port: 443, type: vless, uuid: cd3bb7d9-7df3-4644-ac05-c260990ac277, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, servername: pl2-ded.moritech.net, client-fingerprint: firefox, network: tcp}
+  - {name: 🇫🇷 _FR_法国->🇵🇱_PL_波兰, server: bridge2.kolhoz.fuck-rkn.xyz, port: 443, type: vless, uuid: ef5f6054-61c7-4ce8-a35b-dbcec449f242, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc}, servername: jobinvest.ru, client-fingerprint: firefox, network: tcp}
+  - {name: 🇯🇵 _JP_日本->🇦🇫_AF_阿富汗, server: z-jp2.251313.xyz, port: 10009, type: trojan, password: ultra@kWZdAzt_IH593eGLRjdxnBZ0, sni: www.cloudflare.com, skip-cert-verify: true}
+  - {name: 🇯🇵 _JP_日本->🇶🇦_QA_卡塔尔, server: z-jp2.251313.xyz, port: 10008, type: trojan, password: ultra@kWZdAzt_IH593eGLRjdxnBZ0, sni: www.cloudflare.com, skip-cert-verify: true}
+  - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国, server: 121.46.230.232, port: 65443, type: ss, cipher: aes-256-cfb, password: 7eadc6dbe2ae}
   - {name: 🇹🇭 _TH_泰国, server: 103.169.67.34, port: 65443, type: ss, cipher: aes-256-cfb, password: 7eadc6dbe2ae}
-  - {name: 🇭🇰 _HK_中国香港_3, server: v10.hdacd.com, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国_2, server: 121.46.230.232, port: 65443, type: ss, cipher: aes-256-cfb, password: 7eadc6dbe2ae}
-  - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国_3, server: us22.sofast.live, port: 58011, type: vless, uuid: 0afc6426-606c-48e7-bd70-3c424a416842, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
-  - {name: 🇩🇪 _DE_德国_3, server: 188.220.67.245, port: 2087, type: vless, uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee, tls: false, tfo: false, skip-cert-verify: true, client-fingerprint: chrome, network: ws, ws-opts: {path: /8f2690e2d016}}
+  - {name: 🇯🇵 _CN_中国->🇯🇵_JP_日本, server: 121.46.230.137, port: 65443, type: ss, cipher: aes-256-cfb, password: 7eadc6dbe2ae}
+  - {name: 🇸🇬 _SG_新加坡->🇳🇵_NP_尼泊尔, server: z-sg1.251313.xyz, port: 10044, type: trojan, password: ultra@kWZdAzt_IH593eGLRjdxnBZ0, sni: www.cloudflare.com, skip-cert-verify: true}
+  - {name: 🇯🇵 _JP_日本->🇸🇩_SD_苏丹, server: z-jp2.251313.xyz, port: 10012, type: trojan, password: ultra@kWZdAzt_IH593eGLRjdxnBZ0, sni: www.cloudflare.com, skip-cert-verify: true}
+  - {name: 🇩🇪 _RU_俄罗斯->🇩🇪_DE_德国, server: 31.76.71.140, port: 443, type: vless, uuid: af00e0c4-decf-48f2-9013-56abe9c9efcd, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30, short-id: 4da5d1853f04af6d}, servername: rrr.windconnect.pro, client-fingerprint: firefox, network: tcp}
+  - {name: 🇫🇷 _FR_法国->🇵🇱_PL_波兰_1, server: 31.77.61.214, port: 443, type: vless, uuid: ef5f6054-61c7-4ce8-a35b-dbcec449f242, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc}, servername: jobinvest.ru, client-fingerprint: firefox, network: tcp}
+  - {name: 🇳🇱 _NL_荷兰, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国_1, server: jp.sofast.live, port: 52683, type: vless, uuid: 399b6b23-cc40-4831-a494-61948e2df133, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: 🇳🇱 _PL_波兰->🇳🇱_NL_荷兰, server: 178.95.170.83, port: 2087, type: vless, uuid: bf443e4a-aa9e-4509-abf0-d0f6828d57be, tls: false, tfo: false, skip-cert-verify: true, client-fingerprint: chrome, network: ws, ws-opts: {path: /4bc027a44532}}
+  - {name: 🇫🇷 _FR_法国, server: 95.170.13.47, port: 65443, type: ss, cipher: aes-256-cfb, password: 7eadc6dbe2ae}
+  - {name: 🇩🇪 _DE_德国, server: 188.220.67.245, port: 2087, type: vless, uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee, tls: false, tfo: false, skip-cert-verify: true, client-fingerprint: chrome, network: ws, ws-opts: {path: /8f2690e2d016}}
+  - {name: 🇨🇳 _CN_中国_1, server: 112.132.215.108, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇲🇾 _MY_马来西亚, server: 118.107.222.231, port: 65443, type: ss, cipher: aes-256-cfb, password: 7eadc6dbe2ae}
+  - {name: 🇯🇵 _JP_日本->🇦🇫_AF_阿富汗_1, server: z-jp1.251313.xyz, port: 10009, type: trojan, password: ultra@kWZdAzt_IH593eGLRjdxnBZ0, sni: www.cloudflare.com, skip-cert-verify: true}
