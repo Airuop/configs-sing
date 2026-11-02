@@ -10,7 +10,7 @@ import re
 META_FILE = 'meta.json'
 TAG_MAP_FILE = 'tag_map.json'
 GEOIP_DB = 'utils/GeoLite2-Country.mmdb'
-BLOCKED_COUNTRIES = ['IR', 'IL', 'BH']
+BLOCKED_COUNTRIES = ['IR']
 
 # Output files
 FULL_OUTPUT_FILE = 'full.txt'
@@ -19,13 +19,10 @@ ETERNITY_OUTPUT_FILE = 'Eternity.txt'
 ETERNITY_OUTPUT_BASE64_FILE = 'Eternity'
 
 # --- Parameters ---
-ETERNITY_LIST_SIZE = 165
+ETERNITY_LIST_SIZE = 300
 TOP_POOL_SIZE = 1000
 NODES_PER_COUNTRY = 1
-COUNTRY_NODE_LIMITS = {
-    'TR': 4,
-    'CN': 2
-}
+COUNTRY_NODE_LIMITS = {}
 
 def is_ip_address(address):
     """Checks if a string is a valid IPv4 address."""
