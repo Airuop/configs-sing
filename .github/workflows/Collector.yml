@@ -17,15 +17,11 @@ on:
 jobs:
   main:
     name: Collect Proxies
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04.5
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v5.0.0
-
-      # - name: Setup Node.js
-      #   uses: actions/setup-node@v4
-      #   with:
-      #     node-version: "18.x"
 
       - name: Install Node.js dependencies
         uses: bahmutov/npm-install@v1
@@ -35,7 +31,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v6.0.0
         with:
-          python-version: "3.11.14"
+          python-version: "3.11.x"
           cache: "pip"
 
       - name: Set Timezone
