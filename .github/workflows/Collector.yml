@@ -21,15 +21,15 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v5.0.0
-
+        uses: actions/checkout@v7.0.1
+        
       - name: Install Node.js dependencies
         uses: bahmutov/npm-install@v1
         with:
            working-directory: ./utils/localserver
 
       - name: Setup Python
-        uses: actions/setup-python@v6.0.0
+        uses: actions/setup-python@v7.1.0
         with:
           python-version: "3.11.x"
           cache: "pip"
