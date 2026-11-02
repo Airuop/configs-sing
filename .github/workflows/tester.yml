@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-24.04.5
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7.0.1
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/checkout@v7.0.1
         with:
           python-version: "3.11.x"
 
@@ -235,10 +235,10 @@ jobs:
             "speedtestMode": "pingonly",
             "sortMethod": "ping",
             "pingMethod": "http",
-            "concurrency": 64,
+            "concurrency": 32,
             "timeout": 10,
             "logLevel": "WARN",
-            "removeDup": false
+            "removeDup": true
           }
           CONFIGEOF
           
