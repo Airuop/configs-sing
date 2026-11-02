@@ -6,7 +6,7 @@ on:
 jobs:
   test-and-sort-proxies:
     name: Test and Sort Proxies
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04.5
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -14,7 +14,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.11.x"
 
       - name: Install Python Dependencies
         run: |
