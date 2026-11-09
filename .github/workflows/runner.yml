@@ -1,4 +1,4 @@
-name: Collect
+name: runner
 
 on:
   workflow_dispatch:
@@ -83,5 +83,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Triggering the tester.yml workflow on the dev branch..."
-          gh workflow run tester.yml --ref dev
+          echo "Triggering the test.yml workflow on the dev branch..."
+          gh workflow run test.yml --ref dev
